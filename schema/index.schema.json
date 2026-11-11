@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://wortwerk.dev/schema/index.schema.json",
+  "title": "WortwerkStoryIndex",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["stories"],
+  "properties": {
+    "stories": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["slug", "title", "level", "wordCount", "minutes", "rev"],
+        "properties": {
+          "slug": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+          "title": { "type": "string", "minLength": 1 },
+          "level": { "type": "string", "minLength": 1 },
+          "wordCount": { "type": "integer", "minimum": 0 },
+          "minutes": { "type": "integer", "minimum": 1 },
+          "rev": { "type": "string", "minLength": 1 }
+        }
+      }
+    }
+  }
+}
