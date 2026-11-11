@@ -10,7 +10,7 @@ go-test:
 	$(GO) test ./...
 
 web-test:
-	cd web && $(NPM) run typecheck
+	cd web && $(NPM) run typecheck && $(NPM) run test:unit
 
 test: go-test web-test
 

@@ -45,3 +45,11 @@ jobs:
       - name: Bundle size
         working-directory: web
         run: npm run check-bundle-size
+
+      - name: Install Playwright browsers
+        working-directory: web
+        run: npx playwright install chromium --with-deps
+
+      - name: E2E smoke
+        working-directory: web
+        run: npm run test:e2e

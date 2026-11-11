@@ -4,7 +4,7 @@ import { fileURLToPath } from 'node:url'
 import tailwindcss from '@tailwindcss/vite'
 import react from '@vitejs/plugin-react'
 import sirv from 'sirv'
-import { defineConfig, type Plugin } from 'vite'
+import { defineConfig, type Plugin } from 'vitest/config'
 
 const repoRoot = fileURLToPath(new URL('..', import.meta.url))
 
@@ -28,5 +28,12 @@ export default defineConfig({
   plugins: [react(), tailwindcss(), contentStatic()],
   server: {
     fs: { allow: [repoRoot] },
+  },
+  preview: {
+    port: 4173,
+  },
+  test: {
+    environment: 'jsdom',
+    include: ['src/**/*.test.ts'],
   },
 })
