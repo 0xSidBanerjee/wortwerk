@@ -1,0 +1,4383 @@
+{
+  "schemaVersion": 1,
+  "id": "jack-beanstalk",
+  "title": "Jack und die Bohnenranke",
+  "lang": "de",
+  "glossLang": "en",
+  "level": "A1",
+  "wordCount": 252,
+  "sentences": [
+    {
+      "id": "s0",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Jack",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "wohnt",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "mit",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "seiner",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Mutter",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "in",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "einem",
+          "space": true
+        },
+        {
+          "id": 7,
+          "text": "kleinen",
+          "space": true
+        },
+        {
+          "id": 8,
+          "text": "Haus",
+          "space": false
+        },
+        {
+          "id": 9,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "jack"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "wohnt"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "mit"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "seiner"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "mutter"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "in"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "einem"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "kleinen"
+        },
+        {
+          "tokens": [
+            8
+          ],
+          "lex": "haus"
+        }
+      ],
+      "translation": "Jack lives with his mother in a small house."
+    },
+    {
+      "id": "s1",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Sie",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "sind",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "arm",
+          "space": false
+        },
+        {
+          "id": 3,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "sind"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "arm"
+        }
+      ],
+      "translation": "They are poor."
+    },
+    {
+      "id": "s2",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Sie",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "haben",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "nur",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "eine",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Kuh",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "haben"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "nur"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "eine"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "kuh"
+        }
+      ],
+      "translation": "They only have one cow."
+    },
+    {
+      "id": "s3",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Die",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Kuh",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "gibt",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "keine",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Milch",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "mehr",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "kuh"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "gibt"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "keine"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "milch"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "mehr"
+        }
+      ],
+      "translation": "The cow no longer gives milk."
+    },
+    {
+      "id": "s4",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Die",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Mutter",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "sagt",
+          "space": false
+        },
+        {
+          "id": 3,
+          "text": ":",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "„",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": "Jack",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ",",
+          "space": true
+        },
+        {
+          "id": 7,
+          "text": "verkauf",
+          "space": true
+        },
+        {
+          "id": 8,
+          "text": "die",
+          "space": true
+        },
+        {
+          "id": 9,
+          "text": "Kuh",
+          "space": true
+        },
+        {
+          "id": 10,
+          "text": "auf",
+          "space": true
+        },
+        {
+          "id": 11,
+          "text": "dem",
+          "space": true
+        },
+        {
+          "id": 12,
+          "text": "Markt",
+          "space": false
+        },
+        {
+          "id": 13,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "mutter"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "sagt"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "jack"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "verkauf"
+        },
+        {
+          "tokens": [
+            8
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            9
+          ],
+          "lex": "kuh"
+        },
+        {
+          "tokens": [
+            10
+          ],
+          "lex": "auf"
+        },
+        {
+          "tokens": [
+            11
+          ],
+          "lex": "dem"
+        },
+        {
+          "tokens": [
+            12
+          ],
+          "lex": "markt"
+        }
+      ],
+      "translation": "The mother says, \"Jack, sell the cow at the market."
+    },
+    {
+      "id": "s5",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "“",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Jack",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "geht",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "früh",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "los",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "jack"
+        },
+        {
+          "tokens": [
+            2,
+            4
+          ],
+          "lex": "losgehen"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "früh"
+        }
+      ],
+      "translation": "“ Jack leaves early."
+    },
+    {
+      "id": "s6",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Auf",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "dem",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "Weg",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "trifft",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "er",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "einen",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "alten",
+          "space": true
+        },
+        {
+          "id": 7,
+          "text": "Mann",
+          "space": false
+        },
+        {
+          "id": 8,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "auf"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "dem"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "weg"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "trifft"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "einen"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "alten"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "mann"
+        }
+      ],
+      "translation": "On the way, he meets an old man."
+    },
+    {
+      "id": "s7",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Der",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Mann",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "hat",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "bunte",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Bohnen",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "der"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "mann"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "hat"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "bunte"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "bohnen"
+        }
+      ],
+      "translation": "The man has colorful beans."
+    },
+    {
+      "id": "s8",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Jack",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "tauscht",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "die",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Kuh",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "gegen",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "die",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "Bohnen",
+          "space": false
+        },
+        {
+          "id": 7,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "jack"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "tauscht"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "kuh"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "gegen"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "bohnen"
+        }
+      ],
+      "translation": "Jack exchanges the cow for the beans."
+    },
+    {
+      "id": "s9",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Die",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Mutter",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "ist",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "nicht",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "glücklich",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "mutter"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "nicht"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "glücklich"
+        }
+      ],
+      "translation": "The mother is not happy."
+    },
+    {
+      "id": "s10",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Sie",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "wirft",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "die",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Bohnen",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "aus",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "dem",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "Fenster",
+          "space": false
+        },
+        {
+          "id": 7,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "wirft"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "bohnen"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "aus"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "dem"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "fenster"
+        }
+      ],
+      "translation": "She throws the beans out the window."
+    },
+    {
+      "id": "s11",
+      "p": 1,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "In",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "der",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "Nacht",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "wächst",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "eine",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "riesige",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "Ranke",
+          "space": false
+        },
+        {
+          "id": 7,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "in"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "der"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "nacht"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "wächst"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "eine"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "riesige"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "ranke"
+        }
+      ],
+      "translation": "A giant tendril grows at night."
+    },
+    {
+      "id": "s12",
+      "p": 1,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Sie",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "geht",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "bis",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "in",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "die",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "Wolken",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "geht"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "bis"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "in"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "wolken"
+        }
+      ],
+      "translation": "It goes all the way to the clouds."
+    },
+    {
+      "id": "s13",
+      "p": 1,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Jack",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "klettert",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "am",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Morgen",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "nach",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "oben",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "jack"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "klettert"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "am"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "morgen"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "nach"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "oben"
+        }
+      ],
+      "translation": "Jack climbs up in the morning."
+    },
+    {
+      "id": "s14",
+      "p": 1,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Oben",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "ist",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "ein",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "großes",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Schloss",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "oben"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "ein"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "grosses"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "schloss"
+        }
+      ],
+      "translation": "Upstairs is a large castle."
+    },
+    {
+      "id": "s15",
+      "p": 1,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Eine",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "freundliche",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "Frau",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "öffnet",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "die",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "Tür",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "eine"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "freundliche"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "frau"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "öffnet"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "tür"
+        }
+      ],
+      "translation": "A friendly woman opens the door."
+    },
+    {
+      "id": "s16",
+      "p": 1,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Sie",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "gibt",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "Jack",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Brot",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "und",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "Suppe",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "gibt"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "jack"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "brot"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "suppe"
+        }
+      ],
+      "translation": "She gives Jack bread and soup."
+    },
+    {
+      "id": "s17",
+      "p": 1,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Jack",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "sieht",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "viele",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "goldene",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Sachen",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "jack"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "sieht"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "viele"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "goldene"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "sachen"
+        }
+      ],
+      "translation": "Jack sees a lot of golden things."
+    },
+    {
+      "id": "s18",
+      "p": 1,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Er",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "nimmt",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "eine",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "kleine",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Henne",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "nimmt"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "eine"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "kleine"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "henne"
+        }
+      ],
+      "translation": "He takes a small hen."
+    },
+    {
+      "id": "s19",
+      "p": 1,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Die",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Henne",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "legt",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "ein",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "goldenes",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "Ei",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "henne"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "legt"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "ein"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "goldenes"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "ei"
+        }
+      ],
+      "translation": "The hen lays a golden egg."
+    },
+    {
+      "id": "s20",
+      "p": 1,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Jack",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "will",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "seiner",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Mutter",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "helfen",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "jack"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "will"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "seiner"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "mutter"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "helfen"
+        }
+      ],
+      "translation": "Jack wants to help his mother."
+    },
+    {
+      "id": "s21",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Ein",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Riese",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "kommt",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "nach",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Hause",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "ein"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "riese"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "kommt"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "nach"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "hause"
+        }
+      ],
+      "translation": "A giant is coming home."
+    },
+    {
+      "id": "s22",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Er",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "riecht",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "einen",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Menschen",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "riecht"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "einen"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "menschen"
+        }
+      ],
+      "translation": "He smells a human being."
+    },
+    {
+      "id": "s23",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Jack",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "versteckt",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "sich",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "schnell",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "jack"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "versteckt"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "sich"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "schnell"
+        }
+      ],
+      "translation": "Jack quickly hides."
+    },
+    {
+      "id": "s24",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Er",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "klettert",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "die",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Ranke",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "hinunter",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "mit",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "der",
+          "space": true
+        },
+        {
+          "id": 7,
+          "text": "Henne",
+          "space": false
+        },
+        {
+          "id": 8,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "klettert"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "ranke"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "hinunter"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "mit"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "der"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "henne"
+        }
+      ],
+      "translation": "He climbs down the vine with the hen."
+    },
+    {
+      "id": "s25",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Zu",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Hause",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "gibt",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "es",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "endlich",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "Essen",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "zu"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "hause"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "gibt"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "es"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "endlich"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "essen"
+        }
+      ],
+      "translation": "There's finally food at home."
+    },
+    {
+      "id": "s26",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Die",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Mutter",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "lacht",
+          "space": false
+        },
+        {
+          "id": 3,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "mutter"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "lacht"
+        }
+      ],
+      "translation": "The mother laughs."
+    },
+    {
+      "id": "s27",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Jack",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "sagt",
+          "space": false
+        },
+        {
+          "id": 2,
+          "text": ":",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "„",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": "Wir",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "müssen",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "vorsichtig",
+          "space": true
+        },
+        {
+          "id": 7,
+          "text": "sein",
+          "space": false
+        },
+        {
+          "id": 8,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "jack"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "sagt"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "wir"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "müssen"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "vorsichtig"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "sein"
+        }
+      ],
+      "translation": "Jack says, “We have to be careful."
+    },
+    {
+      "id": "s28",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "“",
+          "space": false
+        }
+      ],
+      "units": [],
+      "translation": "”."
+    },
+    {
+      "id": "s29",
+      "p": 3,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Jack",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "geht",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "noch",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "ein",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Mal",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "nach",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "oben",
+          "space": false
+        },
+        {
+          "id": 7,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "jack"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "geht"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "noch"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "ein"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "mal"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "nach"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "oben"
+        }
+      ],
+      "translation": "Jack goes upstairs one more time."
+    },
+    {
+      "id": "s30",
+      "p": 3,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Der",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Riese",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "wacht",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "auf",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "der"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "riese"
+        },
+        {
+          "tokens": [
+            2,
+            3
+          ],
+          "lex": "aufwachen"
+        }
+      ],
+      "translation": "The giant wakes up."
+    },
+    {
+      "id": "s31",
+      "p": 3,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Jack",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "rennt",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "die",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Ranke",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "hinunter",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "jack"
+        },
+        {
+          "tokens": [
+            1,
+            4
+          ],
+          "lex": "hinunterrennen"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "ranke"
+        }
+      ],
+      "translation": "Jack runs down the vine."
+    },
+    {
+      "id": "s32",
+      "p": 3,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Die",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Mutter",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "holt",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "eine",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Axt",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "mutter"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "holt"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "eine"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "axt"
+        }
+      ],
+      "translation": "The mother fetches an axe."
+    },
+    {
+      "id": "s33",
+      "p": 3,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Sie",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "fällt",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "die",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Ranke",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "fällt"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "ranke"
+        }
+      ],
+      "translation": "She falls the tendril."
+    },
+    {
+      "id": "s34",
+      "p": 3,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Der",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Riese",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "bleibt",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "in",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "den",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "Wolken",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "der"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "riese"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "bleibt"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "in"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "den"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "wolken"
+        }
+      ],
+      "translation": "The giant remains in the clouds."
+    },
+    {
+      "id": "s35",
+      "p": 3,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Jack",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "und",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "die",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Mutter",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "teilen",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "das",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "Gold",
+          "space": false
+        },
+        {
+          "id": 7,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "jack"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "mutter"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "teilen"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "das"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "gold"
+        }
+      ],
+      "translation": "Jack and the mother share the gold."
+    },
+    {
+      "id": "s36",
+      "p": 4,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Sie",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "kaufen",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "Brot",
+          "space": false
+        },
+        {
+          "id": 3,
+          "text": ",",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Obst",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "und",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "warme",
+          "space": true
+        },
+        {
+          "id": 7,
+          "text": "Kleidung",
+          "space": false
+        },
+        {
+          "id": 8,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "kaufen"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "brot"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "obst"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "warme"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "kleidung"
+        }
+      ],
+      "translation": "They buy bread, fruit and warm clothes."
+    },
+    {
+      "id": "s37",
+      "p": 4,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Sie",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "bezahlen",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "die",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "alten",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Schulden",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "bezahlen"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "alten"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "schulden"
+        }
+      ],
+      "translation": "They pay the old debts."
+    },
+    {
+      "id": "s38",
+      "p": 4,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Die",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Nachbarn",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "kommen",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "vorbei",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "und",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "gratulieren",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "nachbarn"
+        },
+        {
+          "tokens": [
+            2,
+            3
+          ],
+          "lex": "vorbeikommen"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "gratulieren"
+        }
+      ],
+      "translation": "The neighbors come by and congratulate."
+    },
+    {
+      "id": "s39",
+      "p": 4,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Jack",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "sagt",
+          "space": false
+        },
+        {
+          "id": 2,
+          "text": ":",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "„",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": "Wir",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "arbeiten",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "ab",
+          "space": true
+        },
+        {
+          "id": 7,
+          "text": "jetzt",
+          "space": true
+        },
+        {
+          "id": 8,
+          "text": "ehrlich",
+          "space": false
+        },
+        {
+          "id": 9,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "jack"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "sagt"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "wir"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "arbeiten"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "ab"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "jetzt"
+        },
+        {
+          "tokens": [
+            8
+          ],
+          "lex": "ehrlich"
+        }
+      ],
+      "translation": "Jack says, “We're working honestly from now on."
+    },
+    {
+      "id": "s40",
+      "p": 4,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "“",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Er",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "verkauft",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Eier",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "von",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "der",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "Henne",
+          "space": false
+        },
+        {
+          "id": 7,
+          "text": ",",
+          "space": true
+        },
+        {
+          "id": 8,
+          "text": "aber",
+          "space": true
+        },
+        {
+          "id": 9,
+          "text": "nicht",
+          "space": true
+        },
+        {
+          "id": 10,
+          "text": "zu",
+          "space": true
+        },
+        {
+          "id": 11,
+          "text": "viel",
+          "space": false
+        },
+        {
+          "id": 12,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "verkauft"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "eier"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "von"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "der"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "henne"
+        },
+        {
+          "tokens": [
+            8
+          ],
+          "lex": "aber"
+        },
+        {
+          "tokens": [
+            9
+          ],
+          "lex": "nicht"
+        },
+        {
+          "tokens": [
+            10
+          ],
+          "lex": "zu"
+        },
+        {
+          "tokens": [
+            11
+          ],
+          "lex": "viel"
+        }
+      ],
+      "translation": "“ He sells eggs from the hen, but not too much."
+    },
+    {
+      "id": "s41",
+      "p": 4,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Die",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Mutter",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "kocht",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Suppe",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "für",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "alle",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "mutter"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "kocht"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "suppe"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "für"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "alle"
+        }
+      ],
+      "translation": "The mother cooks soup for everyone."
+    },
+    {
+      "id": "s42",
+      "p": 4,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Jack",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "lernt",
+          "space": false
+        },
+        {
+          "id": 2,
+          "text": ":",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Mut",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "und",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "Vorsicht",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "können",
+          "space": true
+        },
+        {
+          "id": 7,
+          "text": "helfen",
+          "space": false
+        },
+        {
+          "id": 8,
+          "text": ",",
+          "space": true
+        },
+        {
+          "id": 9,
+          "text": "aber",
+          "space": true
+        },
+        {
+          "id": 10,
+          "text": "Ehrlichkeit",
+          "space": true
+        },
+        {
+          "id": 11,
+          "text": "ist",
+          "space": true
+        },
+        {
+          "id": 12,
+          "text": "wichtig",
+          "space": false
+        },
+        {
+          "id": 13,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "jack"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "lernt"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "mut"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "vorsicht"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "können"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "helfen"
+        },
+        {
+          "tokens": [
+            9
+          ],
+          "lex": "aber"
+        },
+        {
+          "tokens": [
+            10
+          ],
+          "lex": "ehrlichkeit"
+        },
+        {
+          "tokens": [
+            11
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            12
+          ],
+          "lex": "wichtig"
+        }
+      ],
+      "translation": "Jack learns: Courage and caution can help, but honesty is important."
+    }
+  ],
+  "lexicon": {
+    "ab": {
+      "lemma": "ab",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "ab"
+    },
+    "aber": {
+      "lemma": "aber",
+      "kind": "word",
+      "pos": "conjunction",
+      "meaning": "but"
+    },
+    "alle": {
+      "lemma": "alle",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "alle"
+    },
+    "alten": {
+      "lemma": "alten",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "old"
+    },
+    "am": {
+      "lemma": "am",
+      "kind": "word",
+      "pos": "contraction",
+      "meaning": "on the",
+      "parts": [
+        "an",
+        "dem"
+      ]
+    },
+    "arbeiten": {
+      "lemma": "arbeiten",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "arbeiten"
+    },
+    "arm": {
+      "lemma": "arm",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "poor"
+    },
+    "auf": {
+      "lemma": "auf",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "on"
+    },
+    "aufwachen": {
+      "lemma": "aufwachen",
+      "kind": "separable",
+      "pos": "verb",
+      "meaning": "to wake up",
+      "separable": {
+        "prefix": "auf",
+        "stem": "wachen"
+      }
+    },
+    "aus": {
+      "lemma": "aus",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "out of"
+    },
+    "axt": {
+      "lemma": "Axt",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "axe",
+      "gender": "f",
+      "article": "der",
+      "plural": "Äxte"
+    },
+    "bezahlen": {
+      "lemma": "bezahlen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "bezahlen"
+    },
+    "bis": {
+      "lemma": "bis",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "until"
+    },
+    "bleibt": {
+      "lemma": "bleibt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to stay"
+    },
+    "bohnen": {
+      "lemma": "Bohnen",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "beans",
+      "gender": "f",
+      "article": "der",
+      "plural": "Bohnen"
+    },
+    "brot": {
+      "lemma": "Brot",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "brot",
+      "gender": "m",
+      "article": "der",
+      "plural": "Brote"
+    },
+    "bunte": {
+      "lemma": "bunte",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "bunte"
+    },
+    "das": {
+      "lemma": "das",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "the (n)"
+    },
+    "dem": {
+      "lemma": "dem",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "the (dat)"
+    },
+    "den": {
+      "lemma": "den",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "the (acc m)"
+    },
+    "der": {
+      "lemma": "der",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "the (m)"
+    },
+    "die": {
+      "lemma": "die",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "the (f/pl)"
+    },
+    "ehrlich": {
+      "lemma": "ehrlich",
+      "kind": "word",
+      "pos": "adjective",
+      "meaning": "honest"
+    },
+    "ehrlichkeit": {
+      "lemma": "Ehrlichkeit",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "honesty",
+      "gender": "f",
+      "article": "die",
+      "plural": "Ehrlichkeiten"
+    },
+    "ei": {
+      "lemma": "Ei",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "ei",
+      "gender": "m",
+      "article": "der",
+      "plural": "Eie"
+    },
+    "eier": {
+      "lemma": "Eier",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "eggs",
+      "gender": "pl",
+      "article": "der",
+      "plural": "Ei"
+    },
+    "ein": {
+      "lemma": "ein",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "a, an"
+    },
+    "eine": {
+      "lemma": "eine",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "a, an"
+    },
+    "einem": {
+      "lemma": "einem",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "a, an"
+    },
+    "einen": {
+      "lemma": "einen",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "a, an"
+    },
+    "endlich": {
+      "lemma": "endlich",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "finally"
+    },
+    "er": {
+      "lemma": "er",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "he"
+    },
+    "es": {
+      "lemma": "es",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "it"
+    },
+    "essen": {
+      "lemma": "Essen",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "essen",
+      "gender": "m",
+      "article": "der",
+      "plural": "Essene"
+    },
+    "fenster": {
+      "lemma": "Fenster",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "window",
+      "gender": "n",
+      "article": "der",
+      "plural": "Fenster"
+    },
+    "frau": {
+      "lemma": "Frau",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "woman",
+      "gender": "f",
+      "article": "der",
+      "plural": "Frauen"
+    },
+    "freundliche": {
+      "lemma": "freundliche",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "freundliche"
+    },
+    "früh": {
+      "lemma": "früh",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "früh"
+    },
+    "fällt": {
+      "lemma": "fällt",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "fällt"
+    },
+    "für": {
+      "lemma": "für",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "for"
+    },
+    "gegen": {
+      "lemma": "gegen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "against"
+    },
+    "geht": {
+      "lemma": "gehen",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to go"
+    },
+    "gibt": {
+      "lemma": "gibt",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "gibt"
+    },
+    "glücklich": {
+      "lemma": "glücklich",
+      "kind": "word",
+      "pos": "adjective",
+      "meaning": "happy"
+    },
+    "gold": {
+      "lemma": "Gold",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "n",
+      "gender": "Holz",
+      "article": "der",
+      "plural": "wood"
+    },
+    "goldene": {
+      "lemma": "goldene",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "goldene"
+    },
+    "goldenes": {
+      "lemma": "goldenes",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "goldenes"
+    },
+    "gratulieren": {
+      "lemma": "gratulieren",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "gratulieren"
+    },
+    "grosses": {
+      "lemma": "großes",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "grosses"
+    },
+    "haben": {
+      "lemma": "haben",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to have"
+    },
+    "hat": {
+      "lemma": "hat",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to have"
+    },
+    "haus": {
+      "lemma": "Haus",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "house",
+      "gender": "n",
+      "article": "der",
+      "plural": "Häuser"
+    },
+    "hause": {
+      "lemma": "Hause",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "hause",
+      "gender": "f",
+      "article": "die",
+      "plural": "Hauseen"
+    },
+    "helfen": {
+      "lemma": "helfen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "helfen"
+    },
+    "henne": {
+      "lemma": "Henne",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "hen",
+      "gender": "f",
+      "article": "die",
+      "plural": "Hennen"
+    },
+    "hinunter": {
+      "lemma": "hinunter",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "hinunter"
+    },
+    "hinunterrennen": {
+      "lemma": "hinunterrennen",
+      "kind": "separable",
+      "pos": "verb",
+      "meaning": "to run down",
+      "separable": {
+        "prefix": "hinunter",
+        "stem": "rennen"
+      }
+    },
+    "holt": {
+      "lemma": "holt",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "holt"
+    },
+    "in": {
+      "lemma": "in",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "in"
+    },
+    "ist": {
+      "lemma": "ist",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "is"
+    },
+    "jack": {
+      "lemma": "Jack",
+      "kind": "name",
+      "pos": "noun",
+      "meaning": "jack",
+      "gender": "m",
+      "article": "der"
+    },
+    "jetzt": {
+      "lemma": "jetzt",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "now"
+    },
+    "kaufen": {
+      "lemma": "kaufen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "kaufen"
+    },
+    "keine": {
+      "lemma": "keine",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "keine"
+    },
+    "kleidung": {
+      "lemma": "Kleidung",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "clothing",
+      "gender": "f",
+      "article": "die",
+      "plural": "Markt"
+    },
+    "kleine": {
+      "lemma": "kleine",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "small"
+    },
+    "kleinen": {
+      "lemma": "kleinen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "small"
+    },
+    "klettert": {
+      "lemma": "klettert",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "klettert"
+    },
+    "kocht": {
+      "lemma": "kocht",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "kocht"
+    },
+    "kommt": {
+      "lemma": "kommt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to come"
+    },
+    "kuh": {
+      "lemma": "Kuh",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "cow",
+      "gender": "f",
+      "article": "der",
+      "plural": "Kühe"
+    },
+    "können": {
+      "lemma": "können",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "können"
+    },
+    "lacht": {
+      "lemma": "lacht",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "lacht"
+    },
+    "legt": {
+      "lemma": "legt",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "legt"
+    },
+    "lernt": {
+      "lemma": "lernt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to learn"
+    },
+    "losgehen": {
+      "lemma": "losgehen",
+      "kind": "separable",
+      "pos": "verb",
+      "meaning": "to set off",
+      "separable": {
+        "prefix": "los",
+        "stem": "gehen"
+      }
+    },
+    "mal": {
+      "lemma": "Mal",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "mal",
+      "gender": "m",
+      "article": "der",
+      "plural": "Male"
+    },
+    "mann": {
+      "lemma": "Mann",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "man",
+      "gender": "m",
+      "article": "der",
+      "plural": "Märkte"
+    },
+    "markt": {
+      "lemma": "Markt",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "market",
+      "gender": "m",
+      "article": "der",
+      "plural": "Märkte"
+    },
+    "mehr": {
+      "lemma": "mehr",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "more"
+    },
+    "menschen": {
+      "lemma": "Menschen",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "people",
+      "gender": "m",
+      "article": "das",
+      "plural": "Menschen"
+    },
+    "milch": {
+      "lemma": "Milch",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "milk",
+      "gender": "f",
+      "article": "der",
+      "plural": "Milch"
+    },
+    "mit": {
+      "lemma": "mit",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "with"
+    },
+    "morgen": {
+      "lemma": "Morgen",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "tomorrow",
+      "gender": "m",
+      "article": "der",
+      "plural": "Morgene"
+    },
+    "mut": {
+      "lemma": "Mut",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "mut",
+      "gender": "m",
+      "article": "der",
+      "plural": "Mute"
+    },
+    "mutter": {
+      "lemma": "Mutter",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "mother",
+      "gender": "f",
+      "article": "der",
+      "plural": "Mütter"
+    },
+    "müssen": {
+      "lemma": "müssen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "müssen"
+    },
+    "nach": {
+      "lemma": "nach",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "after/to"
+    },
+    "nachbarn": {
+      "lemma": "Nachbarn",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "nachbarn",
+      "gender": "m",
+      "article": "der",
+      "plural": "Nachbarne"
+    },
+    "nacht": {
+      "lemma": "Nacht",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "nacht",
+      "gender": "m",
+      "article": "der",
+      "plural": "Nachte"
+    },
+    "nicht": {
+      "lemma": "nicht",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "not"
+    },
+    "nimmt": {
+      "lemma": "nimmt",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "nimmt"
+    },
+    "noch": {
+      "lemma": "noch",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "still/yet"
+    },
+    "nur": {
+      "lemma": "nur",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "only"
+    },
+    "oben": {
+      "lemma": "oben",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "oben"
+    },
+    "obst": {
+      "lemma": "Obst",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "obst",
+      "gender": "m",
+      "article": "der",
+      "plural": "Obste"
+    },
+    "ranke": {
+      "lemma": "Ranke",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "vine",
+      "gender": "f",
+      "article": "die",
+      "plural": "Ranken"
+    },
+    "riecht": {
+      "lemma": "riecht",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "riecht"
+    },
+    "riese": {
+      "lemma": "Riese",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "giant",
+      "gender": "m",
+      "article": "die",
+      "plural": "Riesen"
+    },
+    "riesige": {
+      "lemma": "riesige",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "riesige"
+    },
+    "sachen": {
+      "lemma": "Sachen",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "sachen",
+      "gender": "n",
+      "article": "das",
+      "plural": "Sachen"
+    },
+    "sagt": {
+      "lemma": "sagt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to say"
+    },
+    "schloss": {
+      "lemma": "Schloss",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "schloss",
+      "gender": "m",
+      "article": "der",
+      "plural": "Schlosse"
+    },
+    "schnell": {
+      "lemma": "schnell",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "schnell"
+    },
+    "schulden": {
+      "lemma": "Schulden",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "schulden",
+      "gender": "m",
+      "article": "der",
+      "plural": "Schuldene"
+    },
+    "sein": {
+      "lemma": "sein",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "his/its"
+    },
+    "seiner": {
+      "lemma": "seiner",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "seiner"
+    },
+    "sich": {
+      "lemma": "sich",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "sich"
+    },
+    "sie": {
+      "lemma": "Sie",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "she/they"
+    },
+    "sieht": {
+      "lemma": "sieht",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to see"
+    },
+    "sind": {
+      "lemma": "sind",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "are"
+    },
+    "suppe": {
+      "lemma": "Suppe",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "suppe",
+      "gender": "f",
+      "article": "die",
+      "plural": "Suppeen"
+    },
+    "tauscht": {
+      "lemma": "tauscht",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "tauscht"
+    },
+    "teilen": {
+      "lemma": "teilen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "teilen"
+    },
+    "trifft": {
+      "lemma": "trifft",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "trifft"
+    },
+    "tür": {
+      "lemma": "Tür",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "door",
+      "gender": "f",
+      "article": "der",
+      "plural": "Türen"
+    },
+    "und": {
+      "lemma": "und",
+      "kind": "word",
+      "pos": "conjunction",
+      "meaning": "and"
+    },
+    "verkauf": {
+      "lemma": "verkauf",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "verkauf"
+    },
+    "verkauft": {
+      "lemma": "verkauft",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to sell"
+    },
+    "versteckt": {
+      "lemma": "versteckt",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "versteckt"
+    },
+    "viel": {
+      "lemma": "viel",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "much/many"
+    },
+    "viele": {
+      "lemma": "viele",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "many"
+    },
+    "von": {
+      "lemma": "von",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "from"
+    },
+    "vorbeikommen": {
+      "lemma": "vorbeikommen",
+      "kind": "separable",
+      "pos": "verb",
+      "meaning": "to vorbeikommen",
+      "separable": {
+        "prefix": "vorbei",
+        "stem": "kommen"
+      }
+    },
+    "vorsicht": {
+      "lemma": "Vorsicht",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "vorsicht",
+      "gender": "m",
+      "article": "der",
+      "plural": "Vorsichte"
+    },
+    "vorsichtig": {
+      "lemma": "vorsichtig",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "vorsichtig"
+    },
+    "warme": {
+      "lemma": "warme",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "warme"
+    },
+    "weg": {
+      "lemma": "Weg",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "weg"
+    },
+    "wichtig": {
+      "lemma": "wichtig",
+      "kind": "word",
+      "pos": "adjective",
+      "meaning": "important"
+    },
+    "will": {
+      "lemma": "will",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "will"
+    },
+    "wir": {
+      "lemma": "Wir",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "we"
+    },
+    "wirft": {
+      "lemma": "wirft",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "wirft"
+    },
+    "wohnt": {
+      "lemma": "wohnt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to live"
+    },
+    "wolken": {
+      "lemma": "Wolken",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "wolken",
+      "gender": "m",
+      "article": "der",
+      "plural": "Wolkene"
+    },
+    "wächst": {
+      "lemma": "wächst",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "wächst"
+    },
+    "zu": {
+      "lemma": "Zu",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "to",
+      "gender": "m",
+      "article": "der",
+      "plural": "Zue"
+    },
+    "öffnet": {
+      "lemma": "öffnet",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "öffnet"
+    }
+  }
+}

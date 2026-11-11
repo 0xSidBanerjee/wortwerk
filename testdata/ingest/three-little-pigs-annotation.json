@@ -1,0 +1,2642 @@
+{
+  "sentences": [
+    {
+      "id": "s0",
+      "translation": "There are three little pigs.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "es"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "gibt"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "drei"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "kleine"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "schweine"
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "translation": "Their names are Max, Paula and Tim.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "heissen"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "max"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "paula"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "tim"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "translation": "They live with mom in the warm house.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "leben"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "mit"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "mama"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "im"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "warmen"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "haus"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "translation": "Mom says, “You're big now.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "mama"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "sagt"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "ihr"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "seid"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "gross"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "jetzt"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "translation": "Find your own homes.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sucht"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "eure"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "eigenen"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "häuser"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "translation": "“ The pigs hug Mom and walk away.",
+      "units": [
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "schweine"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "umarmen"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "mama"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            6,
+            7
+          ],
+          "lex": "weggehen"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "translation": "Max is lazy.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "max"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "faul"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "translation": "He's building a house out of straw.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "baut"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "ein"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "haus"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "aus"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "stroh"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "translation": "\"That's quick! .",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "das"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "geht"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "schnell"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "translation": "He sits down and eats an apple.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1,
+            3
+          ],
+          "lex": "hinsetzen"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "sich"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "isst"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "eine"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "apfel"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "translation": "Paula builds a house out of wood.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "paula"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "baut"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "ein"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "haus"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "aus"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "holz"
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "translation": "She hammers a lot of nails.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "hämmert"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "viele"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "nägel"
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "translation": "Tim is diligent.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "tim"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "fleissig"
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "translation": "He builds from stone.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "baut"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "aus"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "stein"
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "translation": "This takes a long time, but the house is strong.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "das"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "dauert"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "lange"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "aber"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "das"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "haus"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            8
+          ],
+          "lex": "stark"
+        }
+      ]
+    },
+    {
+      "id": "s15",
+      "translation": "A wolf comes into the forest.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "ein"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "wolf"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "kommt"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "in"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "den"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "wald"
+        }
+      ]
+    },
+    {
+      "id": "s16",
+      "translation": "He sees the straw house.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "sieht"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "das"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "strohhaus"
+        }
+      ]
+    },
+    {
+      "id": "s17",
+      "translation": "He blows twice.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "bläst"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "zwei"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "mal"
+        }
+      ]
+    },
+    {
+      "id": "s18",
+      "translation": "The house falls.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "das"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "haus"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "fällt"
+        }
+      ]
+    },
+    {
+      "id": "s19",
+      "translation": "Max runs to Paula.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "max"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "rennt"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "zu"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "paula"
+        }
+      ]
+    },
+    {
+      "id": "s20",
+      "translation": "The wolf comes to the wooden house.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "der"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "wolf"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "kommt"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "zum"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "holzhaus"
+        }
+      ]
+    },
+    {
+      "id": "s21",
+      "translation": "He blows three times.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "bläst"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "drei"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "mal"
+        }
+      ]
+    },
+    {
+      "id": "s22",
+      "translation": "The wooden house also falls.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "das"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "holzhaus"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "fällt"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "auch"
+        }
+      ]
+    },
+    {
+      "id": "s23",
+      "translation": "Max and Paula run to Tim.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "max"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "paula"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "rennen"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "zu"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "tim"
+        }
+      ]
+    },
+    {
+      "id": "s24",
+      "translation": "The wolf comes to the stone house.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "der"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "wolf"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "kommt"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "zum"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "steinhaus"
+        }
+      ]
+    },
+    {
+      "id": "s25",
+      "translation": "He blows and blows, but the house stays.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "bläst"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "bläst"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "aber"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "das"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "haus"
+        },
+        {
+          "tokens": [
+            8
+          ],
+          "lex": "bleibt"
+        }
+      ]
+    },
+    {
+      "id": "s26",
+      "translation": "The wolf tries to get through the chimney.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "der"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "wolf"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "versucht"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "durch"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "den"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "schornstein"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "zu"
+        },
+        {
+          "tokens": [
+            8
+          ],
+          "lex": "kommen"
+        }
+      ]
+    },
+    {
+      "id": "s27",
+      "translation": "Tim makes a warm fire in the oven.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "tim"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "macht"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "ein"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "warmes"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "feuer"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "im"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "ofen"
+        }
+      ]
+    },
+    {
+      "id": "s28",
+      "translation": "The wolf quickly jumps away.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "der"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "wolf"
+        },
+        {
+          "tokens": [
+            2,
+            4
+          ],
+          "lex": "weglaufen"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "schnell"
+        }
+      ]
+    },
+    {
+      "id": "s29",
+      "translation": "He's scared and runs into the woods.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "hat"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "angst"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "läuft"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "in"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "den"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "wald"
+        }
+      ]
+    },
+    {
+      "id": "s30",
+      "translation": "Max and Paula learn a lot.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "max"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "paula"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "lernen"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "viel"
+        }
+      ]
+    },
+    {
+      "id": "s31",
+      "translation": "They say, “Diligence is important.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "sagen"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "fleiss"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "wichtig"
+        }
+      ]
+    },
+    {
+      "id": "s32",
+      "translation": "“ Tim invites them to dinner.",
+      "units": [
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "tim"
+        },
+        {
+          "tokens": [
+            2,
+            6
+          ],
+          "lex": "einladen"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "zum"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "essen"
+        }
+      ]
+    },
+    {
+      "id": "s33",
+      "translation": "All three help mom with the cake.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "alle"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "drei"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "helfen"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "mama"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "beim"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "kuchen"
+        }
+      ]
+    },
+    {
+      "id": "s34",
+      "translation": "Mom is happy.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "mama"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "glücklich"
+        }
+      ]
+    },
+    {
+      "id": "s35",
+      "translation": "The little pigs live close to Mom, but every pig now has a safe house.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "kleinen"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "schweine"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "wohnen"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "nah"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "bei"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "mama"
+        },
+        {
+          "tokens": [
+            8
+          ],
+          "lex": "aber"
+        },
+        {
+          "tokens": [
+            9
+          ],
+          "lex": "jedes"
+        },
+        {
+          "tokens": [
+            10
+          ],
+          "lex": "schwein"
+        },
+        {
+          "tokens": [
+            11
+          ],
+          "lex": "hat"
+        },
+        {
+          "tokens": [
+            12
+          ],
+          "lex": "jetzt"
+        },
+        {
+          "tokens": [
+            13
+          ],
+          "lex": "ein"
+        },
+        {
+          "tokens": [
+            14
+          ],
+          "lex": "sicheres"
+        },
+        {
+          "tokens": [
+            15
+          ],
+          "lex": "haus"
+        }
+      ]
+    },
+    {
+      "id": "s36",
+      "translation": "In the evening, they sit at the large table.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "am"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "abend"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "sitzen"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "am"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "grossen"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "tisch"
+        }
+      ]
+    },
+    {
+      "id": "s37",
+      "translation": "Mom tells old stories.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "mama"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "erzählt"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "alte"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "geschichten"
+        }
+      ]
+    },
+    {
+      "id": "s38",
+      "translation": "Tim brings wood for the fire.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "tim"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "bringt"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "holz"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "für"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "das"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "feuer"
+        }
+      ]
+    },
+    {
+      "id": "s39",
+      "translation": "Max and Paula wash a lot of plates.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "max"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "paula"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "waschen"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "viele"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "teller"
+        }
+      ]
+    },
+    {
+      "id": "s40",
+      "translation": "The wolf is not coming back.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "der"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "wolf"
+        },
+        {
+          "tokens": [
+            2,
+            4
+          ],
+          "lex": "zurückkommen"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "nicht"
+        }
+      ]
+    },
+    {
+      "id": "s41",
+      "translation": "In the forest, the animals hear only gentle wind.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "im"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "wald"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "hören"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "tiere"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "nur"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "sanften"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "wind"
+        }
+      ]
+    },
+    {
+      "id": "s42",
+      "translation": "The three little pigs sleep well and dream of warm beds.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "drei"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "kleinen"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "schweine"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "schlafen"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "gut"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "träumen"
+        },
+        {
+          "tokens": [
+            8
+          ],
+          "lex": "von"
+        },
+        {
+          "tokens": [
+            9
+          ],
+          "lex": "warmen"
+        },
+        {
+          "tokens": [
+            10
+          ],
+          "lex": "betten"
+        }
+      ]
+    }
+  ],
+  "lexicon": {
+    "es": {
+      "lemma": "Es",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "it"
+    },
+    "gibt": {
+      "lemma": "gibt",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "gibt"
+    },
+    "drei": {
+      "lemma": "drei",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "drei"
+    },
+    "kleine": {
+      "lemma": "kleine",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "small"
+    },
+    "schweine": {
+      "lemma": "Schweine",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "schweine",
+      "gender": "f",
+      "article": "die",
+      "plural": "Schweineen"
+    },
+    "sie": {
+      "lemma": "Sie",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "she/they"
+    },
+    "heissen": {
+      "lemma": "heißen",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to be called"
+    },
+    "max": {
+      "lemma": "Max",
+      "kind": "name",
+      "pos": "noun",
+      "meaning": "max",
+      "gender": "m",
+      "article": "der",
+      "plural": null
+    },
+    "paula": {
+      "lemma": "Paula",
+      "kind": "name",
+      "pos": "noun",
+      "meaning": "paula",
+      "gender": "m",
+      "article": "der",
+      "plural": null
+    },
+    "und": {
+      "lemma": "und",
+      "kind": "word",
+      "pos": "conjunction",
+      "meaning": "and"
+    },
+    "tim": {
+      "lemma": "Tim",
+      "kind": "name",
+      "pos": "noun",
+      "meaning": "tim",
+      "gender": "m",
+      "article": "der",
+      "plural": null
+    },
+    "leben": {
+      "lemma": "leben",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "leben"
+    },
+    "mit": {
+      "lemma": "mit",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "with"
+    },
+    "mama": {
+      "lemma": "Mama",
+      "kind": "name",
+      "pos": "noun",
+      "meaning": "mama",
+      "gender": "m",
+      "article": "der",
+      "plural": null
+    },
+    "im": {
+      "lemma": "im",
+      "kind": "word",
+      "pos": "contraction",
+      "meaning": "in the",
+      "parts": [
+        "in",
+        "dem"
+      ]
+    },
+    "warmen": {
+      "lemma": "warmen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "warmen"
+    },
+    "haus": {
+      "lemma": "Haus",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "house",
+      "gender": "n",
+      "plural": "Häuser",
+      "article": "der"
+    },
+    "sagt": {
+      "lemma": "sagt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to say"
+    },
+    "ihr": {
+      "lemma": "Ihr",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "her/their"
+    },
+    "seid": {
+      "lemma": "seid",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "seid"
+    },
+    "gross": {
+      "lemma": "groß",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "big"
+    },
+    "jetzt": {
+      "lemma": "jetzt",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "now"
+    },
+    "sucht": {
+      "lemma": "Sucht",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "sucht",
+      "gender": "m",
+      "article": "der",
+      "plural": "Suchte"
+    },
+    "eure": {
+      "lemma": "eure",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "eure"
+    },
+    "eigenen": {
+      "lemma": "eigenen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "eigenen"
+    },
+    "häuser": {
+      "lemma": "Häuser",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "houses",
+      "gender": "n",
+      "plural": "Häuser",
+      "article": "der"
+    },
+    "weggehen": {
+      "lemma": "weggehen",
+      "kind": "separable",
+      "pos": "verb",
+      "meaning": "to go away",
+      "separable": {
+        "prefix": "weg",
+        "stem": "gehen"
+      }
+    },
+    "die": {
+      "lemma": "die",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "the (f/pl)"
+    },
+    "umarmen": {
+      "lemma": "umarmen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "umarmen"
+    },
+    "ist": {
+      "lemma": "ist",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "is"
+    },
+    "faul": {
+      "lemma": "faul",
+      "kind": "word",
+      "pos": "adjective",
+      "meaning": "lazy"
+    },
+    "er": {
+      "lemma": "Er",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "he"
+    },
+    "baut": {
+      "lemma": "baut",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "baut"
+    },
+    "ein": {
+      "lemma": "ein",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "a, an"
+    },
+    "aus": {
+      "lemma": "aus",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "out of"
+    },
+    "stroh": {
+      "lemma": "Stroh",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "stroh",
+      "gender": "m",
+      "article": "der",
+      "plural": "Strohe"
+    },
+    "das": {
+      "lemma": "das",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "the (n)"
+    },
+    "geht": {
+      "lemma": "gehen",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to go"
+    },
+    "schnell": {
+      "lemma": "schnell",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "schnell"
+    },
+    "hinsetzen": {
+      "lemma": "hinsetzen",
+      "kind": "separable",
+      "pos": "verb",
+      "meaning": "to hinsetzen",
+      "separable": {
+        "prefix": "hin",
+        "stem": "setzen"
+      }
+    },
+    "sich": {
+      "lemma": "sich",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "sich"
+    },
+    "isst": {
+      "lemma": "isst",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to eat"
+    },
+    "eine": {
+      "lemma": "eine",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "a, an"
+    },
+    "apfel": {
+      "lemma": "Apfel",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "apfel",
+      "gender": "m",
+      "article": "der",
+      "plural": "Apfele"
+    },
+    "holz": {
+      "lemma": "Holz",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "holz",
+      "gender": "m",
+      "article": "der",
+      "plural": "Holze"
+    },
+    "hämmert": {
+      "lemma": "hämmert",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "hämmert"
+    },
+    "viele": {
+      "lemma": "viele",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "many"
+    },
+    "nägel": {
+      "lemma": "Nägel",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "nägel",
+      "gender": "m",
+      "article": "der",
+      "plural": "Nägele"
+    },
+    "fleissig": {
+      "lemma": "fleißig",
+      "kind": "word",
+      "pos": "adjective",
+      "meaning": "diligent"
+    },
+    "stein": {
+      "lemma": "Stein",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "stein",
+      "gender": "f",
+      "article": "die",
+      "plural": "Steinnen"
+    },
+    "dauert": {
+      "lemma": "dauert",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "dauert"
+    },
+    "lange": {
+      "lemma": "lange",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "long"
+    },
+    "aber": {
+      "lemma": "aber",
+      "kind": "word",
+      "pos": "conjunction",
+      "meaning": "but"
+    },
+    "stark": {
+      "lemma": "stark",
+      "kind": "word",
+      "pos": "adjective",
+      "meaning": "strong"
+    },
+    "wolf": {
+      "lemma": "Wolf",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "m",
+      "gender": "Wölfe",
+      "plural": "Hund",
+      "article": "der"
+    },
+    "kommt": {
+      "lemma": "kommt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to come"
+    },
+    "in": {
+      "lemma": "in",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "in"
+    },
+    "den": {
+      "lemma": "den",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "the (acc m)"
+    },
+    "wald": {
+      "lemma": "Wald",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "wald",
+      "gender": "m",
+      "article": "der",
+      "plural": "Walde"
+    },
+    "sieht": {
+      "lemma": "sieht",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to see"
+    },
+    "strohhaus": {
+      "lemma": "Strohhaus",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "strohhaus",
+      "gender": "m",
+      "article": "der",
+      "plural": "Strohhause"
+    },
+    "bläst": {
+      "lemma": "bläst",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "bläst"
+    },
+    "zwei": {
+      "lemma": "zwei",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "zwei"
+    },
+    "mal": {
+      "lemma": "Mal",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "mal",
+      "gender": "m",
+      "article": "der",
+      "plural": "Male"
+    },
+    "fällt": {
+      "lemma": "fällt",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "fällt"
+    },
+    "rennt": {
+      "lemma": "rennt",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "rennt"
+    },
+    "zu": {
+      "lemma": "zu",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "to"
+    },
+    "der": {
+      "lemma": "der",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "the (m)"
+    },
+    "zum": {
+      "lemma": "zum",
+      "kind": "word",
+      "pos": "contraction",
+      "meaning": "to the",
+      "parts": [
+        "zu",
+        "dem"
+      ]
+    },
+    "holzhaus": {
+      "lemma": "Holzhaus",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "holzhaus",
+      "gender": "m",
+      "article": "der",
+      "plural": "Holzhause"
+    },
+    "auch": {
+      "lemma": "auch",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "also"
+    },
+    "rennen": {
+      "lemma": "rennen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "rennen"
+    },
+    "steinhaus": {
+      "lemma": "Steinhaus",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "steinhaus",
+      "gender": "m",
+      "article": "der",
+      "plural": "Steinhause"
+    },
+    "bleibt": {
+      "lemma": "bleibt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to stay"
+    },
+    "versucht": {
+      "lemma": "versucht",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "versucht"
+    },
+    "durch": {
+      "lemma": "durch",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "through"
+    },
+    "schornstein": {
+      "lemma": "Schornstein",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "schornstein",
+      "gender": "f",
+      "article": "die",
+      "plural": "Schornsteinnen"
+    },
+    "kommen": {
+      "lemma": "kommen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "kommen"
+    },
+    "macht": {
+      "lemma": "macht",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to make"
+    },
+    "warmes": {
+      "lemma": "warmes",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "warmes"
+    },
+    "feuer": {
+      "lemma": "Feuer",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "feuer",
+      "gender": "m",
+      "article": "der",
+      "plural": "Feuere"
+    },
+    "ofen": {
+      "lemma": "Ofen",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "ofen",
+      "gender": "m",
+      "article": "der",
+      "plural": "Ofene"
+    },
+    "weglaufen": {
+      "lemma": "weglaufen",
+      "kind": "separable",
+      "pos": "verb",
+      "meaning": "to run away",
+      "separable": {
+        "prefix": "weg",
+        "stem": "laufen"
+      }
+    },
+    "hat": {
+      "lemma": "hat",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to have"
+    },
+    "angst": {
+      "lemma": "Angst",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "fear",
+      "gender": "f",
+      "plural": "Puppe",
+      "article": "der"
+    },
+    "läuft": {
+      "lemma": "läuft",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to run"
+    },
+    "lernen": {
+      "lemma": "lernen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "lernen"
+    },
+    "viel": {
+      "lemma": "viel",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "much/many"
+    },
+    "sagen": {
+      "lemma": "sagen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "sagen"
+    },
+    "fleiss": {
+      "lemma": "Fleiß",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "fleiss",
+      "gender": "m",
+      "article": "der",
+      "plural": "Fleiße"
+    },
+    "wichtig": {
+      "lemma": "wichtig",
+      "kind": "word",
+      "pos": "adjective",
+      "meaning": "important"
+    },
+    "einladen": {
+      "lemma": "einladen",
+      "kind": "separable",
+      "pos": "verb",
+      "meaning": "to invite",
+      "separable": {
+        "prefix": "ein",
+        "stem": "laden"
+      }
+    },
+    "essen": {
+      "lemma": "Essen",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "essen",
+      "gender": "m",
+      "article": "der",
+      "plural": "Essene"
+    },
+    "alle": {
+      "lemma": "Alle",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "alle",
+      "gender": "f",
+      "article": "die",
+      "plural": "Alleen"
+    },
+    "helfen": {
+      "lemma": "helfen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "helfen"
+    },
+    "beim": {
+      "lemma": "beim",
+      "kind": "word",
+      "pos": "contraction",
+      "meaning": "at the",
+      "parts": [
+        "bei",
+        "dem"
+      ]
+    },
+    "kuchen": {
+      "lemma": "Kuchen",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "kuchen",
+      "gender": "n",
+      "article": "das",
+      "plural": "Kuchen"
+    },
+    "glücklich": {
+      "lemma": "glücklich",
+      "kind": "word",
+      "pos": "adjective",
+      "meaning": "happy"
+    },
+    "kleinen": {
+      "lemma": "kleinen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "small"
+    },
+    "wohnen": {
+      "lemma": "wohnen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "wohnen"
+    },
+    "nah": {
+      "lemma": "nah",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "nah"
+    },
+    "bei": {
+      "lemma": "bei",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "at/near"
+    },
+    "jedes": {
+      "lemma": "jedes",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "jedes"
+    },
+    "schwein": {
+      "lemma": "Schwein",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "schwein",
+      "gender": "f",
+      "article": "die",
+      "plural": "Schweinnen"
+    },
+    "sicheres": {
+      "lemma": "sicheres",
+      "kind": "word",
+      "pos": "adjective",
+      "meaning": "safe"
+    },
+    "am": {
+      "lemma": "am",
+      "kind": "word",
+      "pos": "contraction",
+      "meaning": "on the",
+      "parts": [
+        "an",
+        "dem"
+      ]
+    },
+    "abend": {
+      "lemma": "Abend",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "abend",
+      "gender": "m",
+      "article": "der",
+      "plural": "Abende"
+    },
+    "sitzen": {
+      "lemma": "sitzen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "sitzen"
+    },
+    "grossen": {
+      "lemma": "großen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "grossen"
+    },
+    "tisch": {
+      "lemma": "Tisch",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "table",
+      "gender": "m",
+      "plural": "Tische",
+      "article": "der"
+    },
+    "erzählt": {
+      "lemma": "erzählt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to tell"
+    },
+    "alte": {
+      "lemma": "alte",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "old"
+    },
+    "geschichten": {
+      "lemma": "Geschichten",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "geschichten",
+      "gender": "m",
+      "article": "der",
+      "plural": "Geschichtene"
+    },
+    "bringt": {
+      "lemma": "bringt",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "bringt"
+    },
+    "für": {
+      "lemma": "für",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "for"
+    },
+    "waschen": {
+      "lemma": "waschen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "waschen"
+    },
+    "teller": {
+      "lemma": "Teller",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "teller",
+      "gender": "m",
+      "article": "der",
+      "plural": "Tellere"
+    },
+    "zurückkommen": {
+      "lemma": "zurückkommen",
+      "kind": "separable",
+      "pos": "verb",
+      "meaning": "to come back",
+      "separable": {
+        "prefix": "zurück",
+        "stem": "kommen"
+      }
+    },
+    "nicht": {
+      "lemma": "nicht",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "not"
+    },
+    "hören": {
+      "lemma": "hören",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "hören"
+    },
+    "tiere": {
+      "lemma": "Tiere",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "tiere",
+      "gender": "f",
+      "article": "die",
+      "plural": "Tiereen"
+    },
+    "nur": {
+      "lemma": "nur",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "only"
+    },
+    "sanften": {
+      "lemma": "sanften",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "sanften"
+    },
+    "wind": {
+      "lemma": "Wind",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "wind",
+      "gender": "m",
+      "article": "der",
+      "plural": "Winde"
+    },
+    "schlafen": {
+      "lemma": "schlafen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "schlafen"
+    },
+    "gut": {
+      "lemma": "gut",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "good/well"
+    },
+    "träumen": {
+      "lemma": "träumen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "träumen"
+    },
+    "von": {
+      "lemma": "von",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "from"
+    },
+    "betten": {
+      "lemma": "Betten",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "betten",
+      "gender": "m",
+      "article": "der",
+      "plural": "Bettene"
+    }
+  }
+}

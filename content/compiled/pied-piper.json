@@ -1,0 +1,4030 @@
+{
+  "schemaVersion": 1,
+  "id": "pied-piper",
+  "title": "Der Rattenfänger von Hameln",
+  "lang": "de",
+  "glossLang": "en",
+  "level": "A1",
+  "wordCount": 226,
+  "sentences": [
+    {
+      "id": "s0",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "In",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Hameln",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "gibt",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "es",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "viele",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "Ratten",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "in"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "hameln"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "gibt"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "es"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "viele"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "ratten"
+        }
+      ],
+      "translation": "There are many rats in Hamelin."
+    },
+    {
+      "id": "s1",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Die",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Ratten",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "laufen",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "in",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "die",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "Häuser",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "ratten"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "laufen"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "in"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "häuser"
+        }
+      ],
+      "translation": "The rats run into the houses."
+    },
+    {
+      "id": "s2",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Sie",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "fressen",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "Brot",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "und",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Käse",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "fressen"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "brot"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "käse"
+        }
+      ],
+      "translation": "They eat bread and cheese."
+    },
+    {
+      "id": "s3",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Die",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Menschen",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "haben",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Angst",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "menschen"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "haben"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "angst"
+        }
+      ],
+      "translation": "People are afraid."
+    },
+    {
+      "id": "s4",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Der",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Bürgermeister",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "ruft",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "alle",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Leute",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "auf",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "den",
+          "space": true
+        },
+        {
+          "id": 7,
+          "text": "Markt",
+          "space": false
+        },
+        {
+          "id": 8,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "der"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "bürgermeister"
+        },
+        {
+          "tokens": [
+            2,
+            5
+          ],
+          "lex": "aufrufen"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "alle"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "leute"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "den"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "markt"
+        }
+      ],
+      "translation": "The mayor calls everyone to the market."
+    },
+    {
+      "id": "s5",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Er",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "sagt",
+          "space": false
+        },
+        {
+          "id": 2,
+          "text": ":",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "„",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": "Wer",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "hilft",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "uns",
+          "space": false
+        },
+        {
+          "id": 7,
+          "text": "?",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "sagt"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "wer"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "hilft"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "uns"
+        }
+      ],
+      "translation": "He says, “Who will help us?"
+    },
+    {
+      "id": "s6",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "“",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Die",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "Leute",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "sind",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "sehr",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "traurig",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "leute"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "sind"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "sehr"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "traurig"
+        }
+      ],
+      "translation": "“ People are very sad."
+    },
+    {
+      "id": "s7",
+      "p": 1,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Am",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Morgen",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "kommt",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "ein",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "fremder",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "Mann",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "in",
+          "space": true
+        },
+        {
+          "id": 7,
+          "text": "die",
+          "space": true
+        },
+        {
+          "id": 8,
+          "text": "Stadt",
+          "space": false
+        },
+        {
+          "id": 9,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "am"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "morgen"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "kommt"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "ein"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "fremder"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "mann"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "in"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            8
+          ],
+          "lex": "stadt"
+        }
+      ],
+      "translation": "In the morning, a strange man comes to town."
+    },
+    {
+      "id": "s8",
+      "p": 1,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Er",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "trägt",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "bunte",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Kleidung",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "und",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "eine",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "Flöte",
+          "space": false
+        },
+        {
+          "id": 7,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "trägt"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "bunte"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "kleidung"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "eine"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "flöte"
+        }
+      ],
+      "translation": "He wears colorful clothes and a flute."
+    },
+    {
+      "id": "s9",
+      "p": 1,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Er",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "sagt",
+          "space": false
+        },
+        {
+          "id": 2,
+          "text": ":",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "„",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": "Ich",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "kann",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "die",
+          "space": true
+        },
+        {
+          "id": 7,
+          "text": "Ratten",
+          "space": true
+        },
+        {
+          "id": 8,
+          "text": "fangen",
+          "space": false
+        },
+        {
+          "id": 9,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "sagt"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "ich"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "kann"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "ratten"
+        },
+        {
+          "tokens": [
+            8
+          ],
+          "lex": "fangen"
+        }
+      ],
+      "translation": "He says, “I can catch the rats."
+    },
+    {
+      "id": "s10",
+      "p": 1,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "“",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Der",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "Bürgermeister",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "ist",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "froh",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "der"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "bürgermeister"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "froh"
+        }
+      ],
+      "translation": "“ The mayor is happy."
+    },
+    {
+      "id": "s11",
+      "p": 1,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Er",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "verspricht",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "Geld",
+          "space": false
+        },
+        {
+          "id": 3,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "verspricht"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "geld"
+        }
+      ],
+      "translation": "He promises money."
+    },
+    {
+      "id": "s12",
+      "p": 1,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Der",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Mann",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "geht",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "durch",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "die",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "Straßen",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "und",
+          "space": true
+        },
+        {
+          "id": 7,
+          "text": "spielt",
+          "space": true
+        },
+        {
+          "id": 8,
+          "text": "schöne",
+          "space": true
+        },
+        {
+          "id": 9,
+          "text": "Musik",
+          "space": false
+        },
+        {
+          "id": 10,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "der"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "mann"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "geht"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "durch"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "strassen"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "spielt"
+        },
+        {
+          "tokens": [
+            8
+          ],
+          "lex": "schöne"
+        },
+        {
+          "tokens": [
+            9
+          ],
+          "lex": "musik"
+        }
+      ],
+      "translation": "The man walks through the streets and plays beautiful music."
+    },
+    {
+      "id": "s13",
+      "p": 1,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Alle",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Ratten",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "folgen",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "ihm",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "alle"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "ratten"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "folgen"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "ihm"
+        }
+      ],
+      "translation": "All the rats follow him."
+    },
+    {
+      "id": "s14",
+      "p": 1,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Sie",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "laufen",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "zum",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Fluss",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "und",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "schwimmen",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "weg",
+          "space": false
+        },
+        {
+          "id": 7,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "laufen"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "zum"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "fluss"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            5,
+            6
+          ],
+          "lex": "wegschwimmen"
+        }
+      ],
+      "translation": "They run to the river and swim away."
+    },
+    {
+      "id": "s15",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Die",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Stadt",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "ist",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "ruhig",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "stadt"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "ruhig"
+        }
+      ],
+      "translation": "The city is quiet."
+    },
+    {
+      "id": "s16",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Die",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Kinder",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "spielen",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "wieder",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "draußen",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "kinder"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "spielen"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "wieder"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "draussen"
+        }
+      ],
+      "translation": "The children play outside again."
+    },
+    {
+      "id": "s17",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Aber",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "der",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "Bürgermeister",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "will",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "kein",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "Geld",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "bezahlen",
+          "space": false
+        },
+        {
+          "id": 7,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "aber"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "der"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "bürgermeister"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "will"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "kein"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "geld"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "bezahlen"
+        }
+      ],
+      "translation": "But the mayor doesn't want to pay any money."
+    },
+    {
+      "id": "s18",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Er",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "sagt",
+          "space": false
+        },
+        {
+          "id": 2,
+          "text": ":",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "„",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": "Das",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "war",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "nicht",
+          "space": true
+        },
+        {
+          "id": 7,
+          "text": "so",
+          "space": true
+        },
+        {
+          "id": 8,
+          "text": "schwer",
+          "space": false
+        },
+        {
+          "id": 9,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "sagt"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "das"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "war"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "nicht"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "so"
+        },
+        {
+          "tokens": [
+            8
+          ],
+          "lex": "schwer"
+        }
+      ],
+      "translation": "He says, “That wasn't that hard."
+    },
+    {
+      "id": "s19",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "“",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Der",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "Mann",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "ist",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "wütend",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "der"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "mann"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "wütend"
+        }
+      ],
+      "translation": "“ The man is angry."
+    },
+    {
+      "id": "s20",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Am",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "nächsten",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "Tag",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "kommt",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "er",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "wieder",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "am"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "nächsten"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "tag"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "kommt"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "wieder"
+        }
+      ],
+      "translation": "The next day he comes back."
+    },
+    {
+      "id": "s21",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Er",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "spielt",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "eine",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "andere",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Melodie",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "spielt"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "eine"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "andere"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "melodie"
+        }
+      ],
+      "translation": "He plays a different tune."
+    },
+    {
+      "id": "s22",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Viele",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Kinder",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "folgen",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "ihm",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "viele"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "kinder"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "folgen"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "ihm"
+        }
+      ],
+      "translation": "Many children follow him."
+    },
+    {
+      "id": "s23",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Sie",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "gehen",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "aus",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "der",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Stadt",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "auf",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "einen",
+          "space": true
+        },
+        {
+          "id": 7,
+          "text": "Berg",
+          "space": false
+        },
+        {
+          "id": 8,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "gehen"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "aus"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "der"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "stadt"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "auf"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "einen"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "berg"
+        }
+      ],
+      "translation": "They walk out of the city onto a mountain."
+    },
+    {
+      "id": "s24",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Die",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Eltern",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "weinen",
+          "space": false
+        },
+        {
+          "id": 3,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "eltern"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "weinen"
+        }
+      ],
+      "translation": "The parents cry."
+    },
+    {
+      "id": "s25",
+      "p": 3,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Die",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Eltern",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "lernen",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "eine",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Lektion",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "eltern"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "lernen"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "eine"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "lektion"
+        }
+      ],
+      "translation": "Parents learn a lesson."
+    },
+    {
+      "id": "s26",
+      "p": 3,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Sie",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "sagen",
+          "space": false
+        },
+        {
+          "id": 2,
+          "text": ":",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "„",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": "Versprechen",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "sind",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "wichtig",
+          "space": false
+        },
+        {
+          "id": 7,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "sagen"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "versprechen"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "sind"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "wichtig"
+        }
+      ],
+      "translation": "They say, “Promises are important."
+    },
+    {
+      "id": "s27",
+      "p": 3,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "“",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Der",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "Bürgermeister",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "schreibt",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "neue",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "Regeln",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "der"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "bürgermeister"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "schreibt"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "neue"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "regeln"
+        }
+      ],
+      "translation": "“ The mayor is writing new rules."
+    },
+    {
+      "id": "s28",
+      "p": 3,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Die",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Bäckerin",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "gibt",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "armen",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Kindern",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "Brot",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "bäckerin"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "gibt"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "armen"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "kindern"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "brot"
+        }
+      ],
+      "translation": "The baker gives bread to poor children."
+    },
+    {
+      "id": "s29",
+      "p": 3,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Der",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Schuster",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "repariert",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Schuhe",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "ohne",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "viel",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "Geld",
+          "space": true
+        },
+        {
+          "id": 7,
+          "text": "zu",
+          "space": true
+        },
+        {
+          "id": 8,
+          "text": "nehmen",
+          "space": false
+        },
+        {
+          "id": 9,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "der"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "schuster"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "repariert"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "schuhe"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "ohne"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "viel"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "geld"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "zu"
+        },
+        {
+          "tokens": [
+            8
+          ],
+          "lex": "nehmen"
+        }
+      ],
+      "translation": "The cobbler repairs shoes without taking much money."
+    },
+    {
+      "id": "s30",
+      "p": 3,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Die",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Stadt",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "arbeitet",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "zusammen",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "stadt"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "arbeitet"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "zusammen"
+        }
+      ],
+      "translation": "The city is working together."
+    },
+    {
+      "id": "s31",
+      "p": 4,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Ein",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Jahr",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "später",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "kommen",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "neue",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "Familien",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "nach",
+          "space": true
+        },
+        {
+          "id": 7,
+          "text": "Hameln",
+          "space": false
+        },
+        {
+          "id": 8,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "ein"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "jahr"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "später"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "kommen"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "neue"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "familien"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "nach"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "hameln"
+        }
+      ],
+      "translation": "A year later, new families come to Hamelin."
+    },
+    {
+      "id": "s32",
+      "p": 4,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Sie",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "hören",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "die",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "alte",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Geschichte",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "hören"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "alte"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "geschichte"
+        }
+      ],
+      "translation": "You hear the old story."
+    },
+    {
+      "id": "s33",
+      "p": 4,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Die",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Kinder",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "fragen",
+          "space": false
+        },
+        {
+          "id": 3,
+          "text": ":",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "„",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": "Was",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "ist",
+          "space": true
+        },
+        {
+          "id": 7,
+          "text": "eine",
+          "space": true
+        },
+        {
+          "id": 8,
+          "text": "Flöte",
+          "space": false
+        },
+        {
+          "id": 9,
+          "text": "?",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "kinder"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "fragen"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "was"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "eine"
+        },
+        {
+          "tokens": [
+            8
+          ],
+          "lex": "flöte"
+        }
+      ],
+      "translation": "The children ask, “What is a flute?"
+    },
+    {
+      "id": "s34",
+      "p": 4,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "“",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Die",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "Großeltern",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "erklären",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "es",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "grosseltern"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "erklären"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "es"
+        }
+      ],
+      "translation": "“ The grandparents explain it."
+    },
+    {
+      "id": "s35",
+      "p": 4,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Die",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Stadt",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "ist",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "wieder",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "fröhlich",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "stadt"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "wieder"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "fröhlich"
+        }
+      ],
+      "translation": "The city is happy again."
+    },
+    {
+      "id": "s36",
+      "p": 4,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Musik",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "klingt",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "auf",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "dem",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Markt",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "musik"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "klingt"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "auf"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "dem"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "markt"
+        }
+      ],
+      "translation": "Music sounds on the market."
+    },
+    {
+      "id": "s37",
+      "p": 4,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Die",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Menschen",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "in",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Hameln",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "erzählen",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "die",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "Geschichte",
+          "space": true
+        },
+        {
+          "id": 7,
+          "text": "noch",
+          "space": true
+        },
+        {
+          "id": 8,
+          "text": "heute",
+          "space": false
+        },
+        {
+          "id": 9,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "menschen"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "in"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "hameln"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "erzählen"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "geschichte"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "noch"
+        },
+        {
+          "tokens": [
+            8
+          ],
+          "lex": "heute"
+        }
+      ],
+      "translation": "The people of Hamelin still tell the story today."
+    },
+    {
+      "id": "s38",
+      "p": 4,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Sie",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "helfen",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "einander",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "und",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "halten",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "Wort",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "helfen"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "einander"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "halten"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "wort"
+        }
+      ],
+      "translation": "They help each other and keep their word."
+    }
+  ],
+  "lexicon": {
+    "aber": {
+      "lemma": "Aber",
+      "kind": "word",
+      "pos": "conjunction",
+      "meaning": "but"
+    },
+    "alle": {
+      "lemma": "alle",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "alle"
+    },
+    "alte": {
+      "lemma": "alte",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "old"
+    },
+    "am": {
+      "lemma": "am",
+      "kind": "word",
+      "pos": "contraction",
+      "meaning": "on the",
+      "parts": [
+        "an",
+        "dem"
+      ]
+    },
+    "andere": {
+      "lemma": "andere",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "andere"
+    },
+    "angst": {
+      "lemma": "Angst",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "fear",
+      "gender": "f",
+      "article": "der",
+      "plural": "Puppe"
+    },
+    "arbeitet": {
+      "lemma": "arbeitet",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to work"
+    },
+    "armen": {
+      "lemma": "armen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "poor"
+    },
+    "auf": {
+      "lemma": "auf",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "on"
+    },
+    "aufrufen": {
+      "lemma": "aufrufen",
+      "kind": "separable",
+      "pos": "verb",
+      "meaning": "to aufrufen",
+      "separable": {
+        "prefix": "auf",
+        "stem": "rufen"
+      }
+    },
+    "aus": {
+      "lemma": "aus",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "out of"
+    },
+    "berg": {
+      "lemma": "Berg",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "berg",
+      "gender": "m",
+      "article": "der",
+      "plural": "Berge"
+    },
+    "bezahlen": {
+      "lemma": "bezahlen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "bezahlen"
+    },
+    "brot": {
+      "lemma": "Brot",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "brot",
+      "gender": "m",
+      "article": "der",
+      "plural": "Brote"
+    },
+    "bunte": {
+      "lemma": "bunte",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "bunte"
+    },
+    "bäckerin": {
+      "lemma": "Bäckerin",
+      "kind": "compound",
+      "pos": "noun",
+      "meaning": "bäckerin",
+      "gender": "m",
+      "article": "der",
+      "plural": "Bäckerinn",
+      "parts": [
+        "Bäcker",
+        "in"
+      ]
+    },
+    "bürgermeister": {
+      "lemma": "Bürgermeister",
+      "kind": "compound",
+      "pos": "noun",
+      "meaning": "bürgermeister",
+      "gender": "m",
+      "article": "der",
+      "plural": "Bürgermeistern",
+      "parts": [
+        "Bürger",
+        "Meister"
+      ]
+    },
+    "das": {
+      "lemma": "das",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "the (n)"
+    },
+    "dem": {
+      "lemma": "dem",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "the (dat)"
+    },
+    "den": {
+      "lemma": "den",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "the (acc m)"
+    },
+    "der": {
+      "lemma": "der",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "the (m)"
+    },
+    "die": {
+      "lemma": "die",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "the (f/pl)"
+    },
+    "draussen": {
+      "lemma": "draußen",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "draussen"
+    },
+    "durch": {
+      "lemma": "durch",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "through"
+    },
+    "ein": {
+      "lemma": "ein",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "a, an"
+    },
+    "einander": {
+      "lemma": "einander",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "einander"
+    },
+    "eine": {
+      "lemma": "eine",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "a, an"
+    },
+    "einen": {
+      "lemma": "einen",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "a, an"
+    },
+    "eltern": {
+      "lemma": "Eltern",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "eltern",
+      "gender": "m",
+      "article": "der",
+      "plural": "Elterne"
+    },
+    "er": {
+      "lemma": "Er",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "he"
+    },
+    "erklären": {
+      "lemma": "erklären",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to explain"
+    },
+    "erzählen": {
+      "lemma": "erzählen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "erzählen"
+    },
+    "es": {
+      "lemma": "es",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "it"
+    },
+    "familien": {
+      "lemma": "Familien",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "familien",
+      "gender": "m",
+      "article": "der",
+      "plural": "Familiene"
+    },
+    "fangen": {
+      "lemma": "fangen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "fangen"
+    },
+    "fluss": {
+      "lemma": "Fluss",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "fluss",
+      "gender": "m",
+      "article": "der",
+      "plural": "Flusse"
+    },
+    "flöte": {
+      "lemma": "Flöte",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "flute",
+      "gender": "f",
+      "article": "die",
+      "plural": "Flöten"
+    },
+    "folgen": {
+      "lemma": "folgen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "folgen"
+    },
+    "fragen": {
+      "lemma": "fragen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "fragen"
+    },
+    "fremder": {
+      "lemma": "fremder",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "fremder"
+    },
+    "fressen": {
+      "lemma": "fressen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "fressen"
+    },
+    "froh": {
+      "lemma": "froh",
+      "kind": "word",
+      "pos": "adjective",
+      "meaning": "glad"
+    },
+    "fröhlich": {
+      "lemma": "fröhlich",
+      "kind": "word",
+      "pos": "adjective",
+      "meaning": "cheerful"
+    },
+    "gehen": {
+      "lemma": "gehen",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to go"
+    },
+    "geht": {
+      "lemma": "gehen",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to go"
+    },
+    "geld": {
+      "lemma": "Geld",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "money",
+      "gender": "n",
+      "article": "der",
+      "plural": "Gold"
+    },
+    "geschichte": {
+      "lemma": "Geschichte",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "story",
+      "gender": "f",
+      "article": "die",
+      "plural": "Geschichten"
+    },
+    "gibt": {
+      "lemma": "gibt",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "gibt"
+    },
+    "grosseltern": {
+      "lemma": "Großeltern",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "grosseltern",
+      "gender": "m",
+      "article": "der",
+      "plural": "Großelterne"
+    },
+    "haben": {
+      "lemma": "haben",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to have"
+    },
+    "halten": {
+      "lemma": "halten",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "halten"
+    },
+    "hameln": {
+      "lemma": "Hameln",
+      "kind": "name",
+      "pos": "noun",
+      "meaning": "hameln",
+      "gender": "m",
+      "article": "der"
+    },
+    "helfen": {
+      "lemma": "helfen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "helfen"
+    },
+    "heute": {
+      "lemma": "heute",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "today"
+    },
+    "hilft": {
+      "lemma": "hilft",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to help"
+    },
+    "häuser": {
+      "lemma": "Häuser",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "houses",
+      "gender": "n",
+      "article": "der",
+      "plural": "Häuser"
+    },
+    "hören": {
+      "lemma": "hören",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "hören"
+    },
+    "ich": {
+      "lemma": "Ich",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "I"
+    },
+    "ihm": {
+      "lemma": "ihm",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "ihm"
+    },
+    "in": {
+      "lemma": "In",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "in",
+      "gender": "m",
+      "article": "der",
+      "plural": "Ine"
+    },
+    "ist": {
+      "lemma": "ist",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "is"
+    },
+    "jahr": {
+      "lemma": "Jahr",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "jahr",
+      "gender": "m",
+      "article": "der",
+      "plural": "Jahre"
+    },
+    "kann": {
+      "lemma": "kann",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "kann"
+    },
+    "kein": {
+      "lemma": "kein",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "kein"
+    },
+    "kinder": {
+      "lemma": "Kinder",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "kinder",
+      "gender": "m",
+      "article": "der",
+      "plural": "Kindere"
+    },
+    "kindern": {
+      "lemma": "Kindern",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "kindern",
+      "gender": "m",
+      "article": "der",
+      "plural": "Kinderne"
+    },
+    "kleidung": {
+      "lemma": "Kleidung",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "clothing",
+      "gender": "f",
+      "article": "die",
+      "plural": "Markt"
+    },
+    "klingt": {
+      "lemma": "klingt",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "klingt"
+    },
+    "kommen": {
+      "lemma": "kommen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "kommen"
+    },
+    "kommt": {
+      "lemma": "kommt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to come"
+    },
+    "käse": {
+      "lemma": "Käse",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "cheese",
+      "gender": "m",
+      "article": "die",
+      "plural": "Käse"
+    },
+    "laufen": {
+      "lemma": "laufen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "laufen"
+    },
+    "lektion": {
+      "lemma": "Lektion",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "lektion",
+      "gender": "f",
+      "article": "die",
+      "plural": "Lektionen"
+    },
+    "lernen": {
+      "lemma": "lernen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "lernen"
+    },
+    "leute": {
+      "lemma": "Leute",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "people",
+      "gender": "f",
+      "article": "die",
+      "plural": "Leute"
+    },
+    "mann": {
+      "lemma": "Mann",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "man",
+      "gender": "m",
+      "article": "der",
+      "plural": "Märkte"
+    },
+    "markt": {
+      "lemma": "Markt",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "market",
+      "gender": "m",
+      "article": "der",
+      "plural": "Märkte"
+    },
+    "melodie": {
+      "lemma": "Melodie",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "melodie",
+      "gender": "f",
+      "article": "die",
+      "plural": "Melodieen"
+    },
+    "menschen": {
+      "lemma": "Menschen",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "people",
+      "gender": "m",
+      "article": "das",
+      "plural": "Menschen"
+    },
+    "morgen": {
+      "lemma": "Morgen",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "tomorrow",
+      "gender": "m",
+      "article": "der",
+      "plural": "Morgene"
+    },
+    "musik": {
+      "lemma": "Musik",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "music",
+      "gender": "f",
+      "article": "die",
+      "plural": "Musiken"
+    },
+    "nach": {
+      "lemma": "nach",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "after/to"
+    },
+    "nehmen": {
+      "lemma": "nehmen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "nehmen"
+    },
+    "neue": {
+      "lemma": "neue",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "new"
+    },
+    "nicht": {
+      "lemma": "nicht",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "not"
+    },
+    "noch": {
+      "lemma": "noch",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "still/yet"
+    },
+    "nächsten": {
+      "lemma": "nächsten",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "nächsten"
+    },
+    "ohne": {
+      "lemma": "ohne",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "without"
+    },
+    "ratten": {
+      "lemma": "Ratten",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "rats",
+      "gender": "f",
+      "article": "der",
+      "plural": "Ratten"
+    },
+    "regeln": {
+      "lemma": "Regeln",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "regeln",
+      "gender": "m",
+      "article": "der",
+      "plural": "Regelne"
+    },
+    "repariert": {
+      "lemma": "repariert",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "repariert"
+    },
+    "ruhig": {
+      "lemma": "ruhig",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "ruhig"
+    },
+    "sagen": {
+      "lemma": "sagen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "sagen"
+    },
+    "sagt": {
+      "lemma": "sagt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to say"
+    },
+    "schreibt": {
+      "lemma": "schreibt",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "schreibt"
+    },
+    "schuhe": {
+      "lemma": "Schuhe",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "schuhe",
+      "gender": "f",
+      "article": "die",
+      "plural": "Schuheen"
+    },
+    "schuster": {
+      "lemma": "Schuster",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "schuster",
+      "gender": "m",
+      "article": "der",
+      "plural": "Schustere"
+    },
+    "schwer": {
+      "lemma": "schwer",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "schwer"
+    },
+    "schöne": {
+      "lemma": "schöne",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "schöne"
+    },
+    "sehr": {
+      "lemma": "sehr",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "very"
+    },
+    "sie": {
+      "lemma": "Sie",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "she/they"
+    },
+    "sind": {
+      "lemma": "sind",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "are"
+    },
+    "so": {
+      "lemma": "so",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "so"
+    },
+    "spielen": {
+      "lemma": "spielen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "spielen"
+    },
+    "spielt": {
+      "lemma": "spielt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to play"
+    },
+    "später": {
+      "lemma": "später",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "später"
+    },
+    "stadt": {
+      "lemma": "Stadt",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "stadt",
+      "gender": "m",
+      "article": "der",
+      "plural": "Stadte"
+    },
+    "strassen": {
+      "lemma": "Straßen",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "strassen",
+      "gender": "m",
+      "article": "der",
+      "plural": "Straßene"
+    },
+    "tag": {
+      "lemma": "Tag",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "tag",
+      "gender": "m",
+      "article": "der",
+      "plural": "Tage"
+    },
+    "traurig": {
+      "lemma": "traurig",
+      "kind": "word",
+      "pos": "adjective",
+      "meaning": "sad"
+    },
+    "trägt": {
+      "lemma": "trägt",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "trägt"
+    },
+    "und": {
+      "lemma": "und",
+      "kind": "word",
+      "pos": "conjunction",
+      "meaning": "and"
+    },
+    "uns": {
+      "lemma": "uns",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "uns"
+    },
+    "versprechen": {
+      "lemma": "Versprechen",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "versprechen",
+      "gender": "n",
+      "article": "das",
+      "plural": "Versprechen"
+    },
+    "verspricht": {
+      "lemma": "verspricht",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "verspricht"
+    },
+    "viel": {
+      "lemma": "viel",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "much/many"
+    },
+    "viele": {
+      "lemma": "viele",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "many"
+    },
+    "war": {
+      "lemma": "war",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "was"
+    },
+    "was": {
+      "lemma": "Was",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "was",
+      "gender": "m",
+      "article": "der",
+      "plural": "Wase"
+    },
+    "wegschwimmen": {
+      "lemma": "wegschwimmen",
+      "kind": "separable",
+      "pos": "verb",
+      "meaning": "to swim away",
+      "separable": {
+        "prefix": "weg",
+        "stem": "schwimmen"
+      }
+    },
+    "weinen": {
+      "lemma": "weinen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "weinen"
+    },
+    "wer": {
+      "lemma": "Wer",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "wer",
+      "gender": "m",
+      "article": "der",
+      "plural": "Were"
+    },
+    "wichtig": {
+      "lemma": "wichtig",
+      "kind": "word",
+      "pos": "adjective",
+      "meaning": "important"
+    },
+    "wieder": {
+      "lemma": "wieder",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "again"
+    },
+    "will": {
+      "lemma": "will",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "will"
+    },
+    "wort": {
+      "lemma": "Wort",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "wort",
+      "gender": "m",
+      "article": "der",
+      "plural": "Worte"
+    },
+    "wütend": {
+      "lemma": "wütend",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "wütend"
+    },
+    "zu": {
+      "lemma": "zu",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "to"
+    },
+    "zum": {
+      "lemma": "zum",
+      "kind": "word",
+      "pos": "contraction",
+      "meaning": "to the",
+      "parts": [
+        "zu",
+        "dem"
+      ]
+    },
+    "zusammen": {
+      "lemma": "zusammen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "zusammen"
+    }
+  }
+}

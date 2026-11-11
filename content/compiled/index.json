@@ -7,6 +7,46 @@
       "wordCount": 12,
       "minutes": 1,
       "rev": "d202b969"
+    },
+    {
+      "slug": "jack-beanstalk",
+      "title": "Jack und die Bohnenranke",
+      "level": "A1",
+      "wordCount": 252,
+      "minutes": 3,
+      "rev": "cdd6ffeb"
+    },
+    {
+      "slug": "pied-piper",
+      "title": "Der Rattenfänger von Hameln",
+      "level": "A1",
+      "wordCount": 226,
+      "minutes": 3,
+      "rev": "18785c71"
+    },
+    {
+      "slug": "pinocchio",
+      "title": "Pinocchio",
+      "level": "A1",
+      "wordCount": 241,
+      "minutes": 3,
+      "rev": "ab8db589"
+    },
+    {
+      "slug": "three-little-pigs",
+      "title": "Die drei kleinen Schweine",
+      "level": "A1",
+      "wordCount": 248,
+      "minutes": 3,
+      "rev": "fc587346"
+    },
+    {
+      "slug": "ugly-duckling",
+      "title": "Das hässliche Entlein",
+      "level": "A1",
+      "wordCount": 250,
+      "minutes": 3,
+      "rev": "3a3101dc"
     }
   ]
 }

@@ -64,16 +64,12 @@ func Ingest(ctx context.Context, opts Options) error {
 		if opts.LLM == nil {
 			return fmt.Errorf("LLM client required (or use --offline)")
 		}
-		// Live path: build chunk payload (candidates optional for first implementation).
-		payload, err := buildChunkPayload(opts.Root, doc, opts.DictPath)
+		var usage llm.Usage
+		ann, usage, err = annotateLive(ctx, opts.LLM, opts.DictPath, doc)
 		if err != nil {
 			return err
 		}
-		userJSON, _ := json.Marshal(payload)
-		ann, _, err = opts.LLM.Annotate(ctx, string(userJSON))
-		if err != nil {
-			return err
-		}
+		fmt.Fprintln(os.Stderr, usageSummary(usage))
 	}
 
 	story, err := compile.Assemble(doc, ann, opts.GlossLang)
@@ -100,17 +96,6 @@ func Ingest(ctx context.Context, opts Options) error {
 	}
 	fmt.Printf("wrote %s (%d bytes)\n", outPath, len(out))
 	return nil
-}
-
-func buildChunkPayload(root string, doc parse.Document, dictPath string) (map[string]any, error) {
-	_ = root
-	_ = dictPath
-	return map[string]any{
-		"title":      doc.Meta.Title,
-		"level":      doc.Meta.Level,
-		"paragraphs": doc.Paragraphs,
-		"prompt":     llm.PromptVersion,
-	}, nil
 }
 
 func updateIndex(root string, doc parse.Document, s *story.CompiledStory, compiled []byte) error {

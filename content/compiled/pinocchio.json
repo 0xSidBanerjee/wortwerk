@@ -1,0 +1,4277 @@
+{
+  "schemaVersion": 1,
+  "id": "pinocchio",
+  "title": "Pinocchio",
+  "lang": "de",
+  "glossLang": "en",
+  "level": "A1",
+  "wordCount": 241,
+  "sentences": [
+    {
+      "id": "s0",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Es",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "ist",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "ein",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "schöner",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Morgen",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "es"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "ein"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "schöner"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "morgen"
+        }
+      ],
+      "translation": "It's a beautiful morning."
+    },
+    {
+      "id": "s1",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Ein",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Mann",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "macht",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "eine",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Puppe",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "aus",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "Holz",
+          "space": false
+        },
+        {
+          "id": 7,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "ein"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "mann"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "macht"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "eine"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "puppe"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "aus"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "holz"
+        }
+      ],
+      "translation": "A man makes a doll out of wood."
+    },
+    {
+      "id": "s2",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Die",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Puppe",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "heißt",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Pinocchio",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "puppe"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "heisst"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "pinocchio"
+        }
+      ],
+      "translation": "The doll's name is Pinocchio."
+    },
+    {
+      "id": "s3",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Er",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "hat",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "einen",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "langen",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Holznasen",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "hat"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "einen"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "langen"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "holznasen"
+        }
+      ],
+      "translation": "He has a long wooden nose."
+    },
+    {
+      "id": "s4",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Der",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Mann",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "ist",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Geppetto",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "der"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "mann"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "geppetto"
+        }
+      ],
+      "translation": "The man is Geppetto."
+    },
+    {
+      "id": "s5",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Er",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "ist",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "ein",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "armer",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Schreiner",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "ein"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "armer"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "schreiner"
+        }
+      ],
+      "translation": "He's a poor carpenter."
+    },
+    {
+      "id": "s6",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Geppetto",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "sagt",
+          "space": false
+        },
+        {
+          "id": 2,
+          "text": ":",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "„",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": "Du",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "bist",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "mein",
+          "space": true
+        },
+        {
+          "id": 7,
+          "text": "Sohn",
+          "space": false
+        },
+        {
+          "id": 8,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "geppetto"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "sagt"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "du"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "bist"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "mein"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "sohn"
+        }
+      ],
+      "translation": "Geppetto says, “You are my son."
+    },
+    {
+      "id": "s7",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "“",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Pinocchio",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "kann",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "noch",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "nicht",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "gehen",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "pinocchio"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "kann"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "noch"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "nicht"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "gehen"
+        }
+      ],
+      "translation": "“ Pinocchio can't go yet."
+    },
+    {
+      "id": "s8",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Er",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "sitzt",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "auf",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "dem",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Tisch",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "sitzt"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "auf"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "dem"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "tisch"
+        }
+      ],
+      "translation": "He sits on the table."
+    },
+    {
+      "id": "s9",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Geppetto",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "will",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "etwas",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Essen",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "kaufen",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "geppetto"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "will"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "etwas"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "essen"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "kaufen"
+        }
+      ],
+      "translation": "Geppetto wants to buy some food."
+    },
+    {
+      "id": "s10",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Er",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "geht",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "zum",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Markt",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "geht"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "zum"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "markt"
+        }
+      ],
+      "translation": "He goes to the market."
+    },
+    {
+      "id": "s11",
+      "p": 0,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Pinocchio",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "bleibt",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "in",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "der",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Werkstatt",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "pinocchio"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "bleibt"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "in"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "der"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "werkstatt"
+        }
+      ],
+      "translation": "Pinocchio stays in the workshop."
+    },
+    {
+      "id": "s12",
+      "p": 1,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Eine",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Fee",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "kommt",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "in",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "die",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "Werkstatt",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "eine"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "fee"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "kommt"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "in"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "werkstatt"
+        }
+      ],
+      "translation": "A fairy comes into the workshop."
+    },
+    {
+      "id": "s13",
+      "p": 1,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Sie",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "ist",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "sehr",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "nett",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "sehr"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "nett"
+        }
+      ],
+      "translation": "She is very nice."
+    },
+    {
+      "id": "s14",
+      "p": 1,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Sie",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "sagt",
+          "space": false
+        },
+        {
+          "id": 2,
+          "text": ":",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "„",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": "Pinocchio",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ",",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "du",
+          "space": true
+        },
+        {
+          "id": 7,
+          "text": "kannst",
+          "space": true
+        },
+        {
+          "id": 8,
+          "text": "leben",
+          "space": false
+        },
+        {
+          "id": 9,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "sagt"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "pinocchio"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "du"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "kannst"
+        },
+        {
+          "tokens": [
+            8
+          ],
+          "lex": "leben"
+        }
+      ],
+      "translation": "She says, “Pinocchio, you can live."
+    },
+    {
+      "id": "s15",
+      "p": 1,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "“",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Plötzlich",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "steht",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Pinocchio",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "auf",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "plötzlich"
+        },
+        {
+          "tokens": [
+            2,
+            4
+          ],
+          "lex": "aufstehen"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "pinocchio"
+        }
+      ],
+      "translation": "“ Suddenly Pinocchio stands up."
+    },
+    {
+      "id": "s16",
+      "p": 1,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Er",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "kann",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "jetzt",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "gehen",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "und",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "sprechen",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "kann"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "jetzt"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "gehen"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "sprechen"
+        }
+      ],
+      "translation": "He can walk and talk now."
+    },
+    {
+      "id": "s17",
+      "p": 1,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Er",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "freut",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "sich",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "sehr",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "freut"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "sich"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "sehr"
+        }
+      ],
+      "translation": "He rejoices. ."
+    },
+    {
+      "id": "s18",
+      "p": 1,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Die",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Fee",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "sagt",
+          "space": false
+        },
+        {
+          "id": 3,
+          "text": ":",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "„",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": "Sei",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "brav",
+          "space": true
+        },
+        {
+          "id": 7,
+          "text": "und",
+          "space": true
+        },
+        {
+          "id": 8,
+          "text": "geh",
+          "space": true
+        },
+        {
+          "id": 9,
+          "text": "zur",
+          "space": true
+        },
+        {
+          "id": 10,
+          "text": "Schule",
+          "space": false
+        },
+        {
+          "id": 11,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "fee"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "sagt"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "sei"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "brav"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            8
+          ],
+          "lex": "geh"
+        },
+        {
+          "tokens": [
+            9
+          ],
+          "lex": "zur"
+        },
+        {
+          "tokens": [
+            10
+          ],
+          "lex": "schule"
+        }
+      ],
+      "translation": "The fairy says, “Be good and go to school."
+    },
+    {
+      "id": "s19",
+      "p": 1,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "“",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Pinocchio",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "nickt",
+          "space": false
+        },
+        {
+          "id": 3,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "pinocchio"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "nickt"
+        }
+      ],
+      "translation": "“ Pinocchio nods."
+    },
+    {
+      "id": "s20",
+      "p": 1,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Er",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "will",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "ein",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "guter",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Junge",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "sein",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "will"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "ein"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "guter"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "junge"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "sein"
+        }
+      ],
+      "translation": "He wants to be a good boy."
+    },
+    {
+      "id": "s21",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Am",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Morgen",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "geht",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Pinocchio",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "zur",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "Schule",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "am"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "morgen"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "geht"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "pinocchio"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "zur"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "schule"
+        }
+      ],
+      "translation": "In the morning, Pinocchio goes to school."
+    },
+    {
+      "id": "s22",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Er",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "trägt",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "ein",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "kleines",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Buch",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "trägt"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "ein"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "kleines"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "buch"
+        }
+      ],
+      "translation": "He is carrying a small book."
+    },
+    {
+      "id": "s23",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Auf",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "dem",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "Weg",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "sieht",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "er",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "ein",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "buntes",
+          "space": true
+        },
+        {
+          "id": 7,
+          "text": "Theater",
+          "space": false
+        },
+        {
+          "id": 8,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "auf"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "dem"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "weg"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "sieht"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "ein"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "buntes"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "theater"
+        }
+      ],
+      "translation": "On the way, he sees a colourful theatre."
+    },
+    {
+      "id": "s24",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Ein",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Mann",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "spielt",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Trommel",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "und",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "singt",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "ein"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "mann"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "spielt"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "trommel"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "singt"
+        }
+      ],
+      "translation": "A man plays the drum and sings."
+    },
+    {
+      "id": "s25",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Pinocchio",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "will",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "das",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Theater",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "sehen",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "pinocchio"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "will"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "das"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "theater"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "sehen"
+        }
+      ],
+      "translation": "Pinocchio wants to see the theatre."
+    },
+    {
+      "id": "s26",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Er",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "hat",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "kein",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Geld",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "hat"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "kein"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "geld"
+        }
+      ],
+      "translation": "He has no money."
+    },
+    {
+      "id": "s27",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Er",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "verkauft",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "das",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Buch",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "verkauft"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "das"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "buch"
+        }
+      ],
+      "translation": "He sells the book."
+    },
+    {
+      "id": "s28",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Er",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "kauft",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "eine",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Karte",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "für",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "das",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "Theater",
+          "space": false
+        },
+        {
+          "id": 7,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "kauft"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "eine"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "karte"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "für"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "das"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "theater"
+        }
+      ],
+      "translation": "He buys a ticket to the theatre."
+    },
+    {
+      "id": "s29",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Er",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "sitzt",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "und",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "lacht",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "sitzt"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "lacht"
+        }
+      ],
+      "translation": "He sits and laughs."
+    },
+    {
+      "id": "s30",
+      "p": 2,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Das",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "macht",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "Spaß",
+          "space": false
+        },
+        {
+          "id": 3,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "das"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "macht"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "spass"
+        }
+      ],
+      "translation": "Das macht Spaß."
+    },
+    {
+      "id": "s31",
+      "p": 3,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Die",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Fee",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "kommt",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "wieder",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "fee"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "kommt"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "wieder"
+        }
+      ],
+      "translation": "The Fairy is coming back."
+    },
+    {
+      "id": "s32",
+      "p": 3,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Sie",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "fragt",
+          "space": false
+        },
+        {
+          "id": 2,
+          "text": ":",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "„",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": "Warst",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "du",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "in",
+          "space": true
+        },
+        {
+          "id": 7,
+          "text": "der",
+          "space": true
+        },
+        {
+          "id": 8,
+          "text": "Schule",
+          "space": false
+        },
+        {
+          "id": 9,
+          "text": "?",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "fragt"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "warst"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "du"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "in"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "der"
+        },
+        {
+          "tokens": [
+            8
+          ],
+          "lex": "schule"
+        }
+      ],
+      "translation": "She asks, “Have you been to school?"
+    },
+    {
+      "id": "s33",
+      "p": 3,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "“",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Pinocchio",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "sagt",
+          "space": false
+        },
+        {
+          "id": 3,
+          "text": ":",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "„",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": "Ja",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "pinocchio"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "sagt"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "ja"
+        }
+      ],
+      "translation": "“ Pinocchio says, 'Yes."
+    },
+    {
+      "id": "s34",
+      "p": 3,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "“",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Aber",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "seine",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Nase",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "wird",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "lang",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "aber"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "seine"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "nase"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "wird"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "lang"
+        }
+      ],
+      "translation": "“ But his nose is getting long."
+    },
+    {
+      "id": "s35",
+      "p": 3,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Das",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "passiert",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "immer",
+          "space": false
+        },
+        {
+          "id": 3,
+          "text": ",",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "wenn",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "er",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "lügt",
+          "space": false
+        },
+        {
+          "id": 7,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "das"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "passiert"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "immer"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "wenn"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "lügt"
+        }
+      ],
+      "translation": "This happens every time he lies."
+    },
+    {
+      "id": "s36",
+      "p": 3,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Pinocchio",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "ist",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "traurig",
+          "space": false
+        },
+        {
+          "id": 3,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "pinocchio"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "traurig"
+        }
+      ],
+      "translation": "Pinocchio is sad."
+    },
+    {
+      "id": "s37",
+      "p": 3,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Er",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "sagt",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "die",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Wahrheit",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "sagt"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "wahrheit"
+        }
+      ],
+      "translation": "He’s telling the truth. ."
+    },
+    {
+      "id": "s38",
+      "p": 3,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Die",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Nase",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "wird",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "kurz",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "nase"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "wird"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "kurz"
+        }
+      ],
+      "translation": "The nose becomes short."
+    },
+    {
+      "id": "s39",
+      "p": 3,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Die",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Fee",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "sagt",
+          "space": false
+        },
+        {
+          "id": 3,
+          "text": ":",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "„",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": "Lüge",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "nicht",
+          "space": true
+        },
+        {
+          "id": 7,
+          "text": "mehr",
+          "space": false
+        },
+        {
+          "id": 8,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "fee"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "sagt"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "lüge"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "nicht"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "mehr"
+        }
+      ],
+      "translation": "The fairy says, “Don't lie anymore."
+    },
+    {
+      "id": "s40",
+      "p": 3,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "“",
+          "space": false
+        }
+      ],
+      "units": [],
+      "translation": "”."
+    },
+    {
+      "id": "s41",
+      "p": 4,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Pinocchio",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "geht",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "am",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "nächsten",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Tag",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "wirklich",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "zur",
+          "space": true
+        },
+        {
+          "id": 7,
+          "text": "Schule",
+          "space": false
+        },
+        {
+          "id": 8,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "pinocchio"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "geht"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "am"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "nächsten"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "tag"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "wirklich"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "zur"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "schule"
+        }
+      ],
+      "translation": "Pinocchio really goes to school the next day."
+    },
+    {
+      "id": "s42",
+      "p": 4,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Er",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "hört",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "zu",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "und",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "lernt",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "viel",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1,
+            2
+          ],
+          "lex": "zuhören"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "lernt"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "viel"
+        }
+      ],
+      "translation": "He listens and learns a lot."
+    },
+    {
+      "id": "s43",
+      "p": 4,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Er",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "hilft",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "Geppetto",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "am",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "Abend",
+          "space": false
+        },
+        {
+          "id": 5,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "hilft"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "geppetto"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "am"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "abend"
+        }
+      ],
+      "translation": "He helps Geppetto in the evening."
+    },
+    {
+      "id": "s44",
+      "p": 4,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Geppetto",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "lächelt",
+          "space": false
+        },
+        {
+          "id": 2,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "geppetto"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "lächelt"
+        }
+      ],
+      "translation": "Geppetto smiles."
+    },
+    {
+      "id": "s45",
+      "p": 4,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Pinocchio",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "fühlt",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "sich",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "gut",
+          "space": false
+        },
+        {
+          "id": 4,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "pinocchio"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "fühlt"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "sich"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "gut"
+        }
+      ],
+      "translation": "Pinocchio feels good."
+    },
+    {
+      "id": "s46",
+      "p": 4,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Er",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "will",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "jeden",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "Tag",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "brav",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "sein",
+          "space": false
+        },
+        {
+          "id": 6,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "er"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "will"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "jeden"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "tag"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "brav"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "sein"
+        }
+      ],
+      "translation": "He wants to be good every day."
+    },
+    {
+      "id": "s47",
+      "p": 4,
+      "tokens": [
+        {
+          "id": 0,
+          "text": "Die",
+          "space": true
+        },
+        {
+          "id": 1,
+          "text": "Fee",
+          "space": true
+        },
+        {
+          "id": 2,
+          "text": "schaut",
+          "space": true
+        },
+        {
+          "id": 3,
+          "text": "von",
+          "space": true
+        },
+        {
+          "id": 4,
+          "text": "weit",
+          "space": true
+        },
+        {
+          "id": 5,
+          "text": "weg",
+          "space": true
+        },
+        {
+          "id": 6,
+          "text": "und",
+          "space": true
+        },
+        {
+          "id": 7,
+          "text": "ist",
+          "space": true
+        },
+        {
+          "id": 8,
+          "text": "zufrieden",
+          "space": false
+        },
+        {
+          "id": 9,
+          "text": ".",
+          "space": true
+        }
+      ],
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "fee"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "schaut"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "von"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "weit"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "weg"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            8
+          ],
+          "lex": "zufrieden"
+        }
+      ],
+      "translation": "The fairy looks from far away and is satisfied."
+    }
+  ],
+  "lexicon": {
+    "abend": {
+      "lemma": "Abend",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "abend",
+      "gender": "m",
+      "article": "der",
+      "plural": "Abende"
+    },
+    "aber": {
+      "lemma": "Aber",
+      "kind": "word",
+      "pos": "conjunction",
+      "meaning": "but"
+    },
+    "am": {
+      "lemma": "am",
+      "kind": "word",
+      "pos": "contraction",
+      "meaning": "on the",
+      "parts": [
+        "an",
+        "dem"
+      ]
+    },
+    "armer": {
+      "lemma": "armer",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "poor"
+    },
+    "auf": {
+      "lemma": "auf",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "on"
+    },
+    "aufstehen": {
+      "lemma": "aufstehen",
+      "kind": "separable",
+      "pos": "verb",
+      "meaning": "to get up",
+      "separable": {
+        "prefix": "auf",
+        "stem": "stehen"
+      }
+    },
+    "aus": {
+      "lemma": "aus",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "out of"
+    },
+    "bist": {
+      "lemma": "bist",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "are"
+    },
+    "bleibt": {
+      "lemma": "bleibt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to stay"
+    },
+    "brav": {
+      "lemma": "brav",
+      "kind": "word",
+      "pos": "adjective",
+      "meaning": "good/well-behaved"
+    },
+    "buch": {
+      "lemma": "Buch",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "book",
+      "gender": "n",
+      "article": "der",
+      "plural": "Bücher"
+    },
+    "buntes": {
+      "lemma": "buntes",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "buntes"
+    },
+    "das": {
+      "lemma": "das",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "the (n)"
+    },
+    "dem": {
+      "lemma": "dem",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "the (dat)"
+    },
+    "der": {
+      "lemma": "der",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "the (m)"
+    },
+    "die": {
+      "lemma": "die",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "the (f/pl)"
+    },
+    "du": {
+      "lemma": "Du",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "you"
+    },
+    "ein": {
+      "lemma": "ein",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "a, an"
+    },
+    "eine": {
+      "lemma": "eine",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "a, an"
+    },
+    "einen": {
+      "lemma": "einen",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "a, an"
+    },
+    "er": {
+      "lemma": "Er",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "he"
+    },
+    "es": {
+      "lemma": "Es",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "it"
+    },
+    "essen": {
+      "lemma": "Essen",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "essen",
+      "gender": "m",
+      "article": "der",
+      "plural": "Essene"
+    },
+    "etwas": {
+      "lemma": "etwas",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "etwas"
+    },
+    "fee": {
+      "lemma": "Fee",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "fee",
+      "gender": "f",
+      "article": "die",
+      "plural": "Feeen"
+    },
+    "fragt": {
+      "lemma": "fragt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to ask"
+    },
+    "freut": {
+      "lemma": "freut",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to be"
+    },
+    "fühlt": {
+      "lemma": "fühlt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to feel"
+    },
+    "für": {
+      "lemma": "für",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "for"
+    },
+    "geh": {
+      "lemma": "geh",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "geh"
+    },
+    "gehen": {
+      "lemma": "gehen",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to go"
+    },
+    "geht": {
+      "lemma": "gehen",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to go"
+    },
+    "geld": {
+      "lemma": "Geld",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "money",
+      "gender": "n",
+      "article": "der",
+      "plural": "Gold"
+    },
+    "geppetto": {
+      "lemma": "Geppetto",
+      "kind": "name",
+      "pos": "noun",
+      "meaning": "geppetto",
+      "gender": "m",
+      "article": "der"
+    },
+    "gut": {
+      "lemma": "gut",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "good/well"
+    },
+    "guter": {
+      "lemma": "guter",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "guter"
+    },
+    "hat": {
+      "lemma": "hat",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to have"
+    },
+    "heisst": {
+      "lemma": "heißt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "is called"
+    },
+    "hilft": {
+      "lemma": "hilft",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to help"
+    },
+    "holz": {
+      "lemma": "Holz",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "holz",
+      "gender": "m",
+      "article": "der",
+      "plural": "Holze"
+    },
+    "holznasen": {
+      "lemma": "Holznase",
+      "kind": "compound",
+      "pos": "noun",
+      "meaning": "wooden nose",
+      "gender": "m",
+      "article": "der",
+      "plural": "Holznasen",
+      "parts": [
+        "Holz",
+        "Nase"
+      ]
+    },
+    "immer": {
+      "lemma": "immer",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "always"
+    },
+    "in": {
+      "lemma": "in",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "in"
+    },
+    "ist": {
+      "lemma": "ist",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "is"
+    },
+    "ja": {
+      "lemma": "Ja",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "yes",
+      "gender": "m",
+      "article": "der",
+      "plural": "Jae"
+    },
+    "jeden": {
+      "lemma": "jeden",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "jeden"
+    },
+    "jetzt": {
+      "lemma": "jetzt",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "now"
+    },
+    "junge": {
+      "lemma": "Junge",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "junge",
+      "gender": "f",
+      "article": "die",
+      "plural": "Jungeen"
+    },
+    "kann": {
+      "lemma": "kann",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "kann"
+    },
+    "kannst": {
+      "lemma": "kannst",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "kannst"
+    },
+    "karte": {
+      "lemma": "Karte",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "ticket",
+      "gender": "f",
+      "article": "die",
+      "plural": "Karten"
+    },
+    "kaufen": {
+      "lemma": "kaufen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "kaufen"
+    },
+    "kauft": {
+      "lemma": "kauft",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to buy"
+    },
+    "kein": {
+      "lemma": "kein",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "kein"
+    },
+    "kleines": {
+      "lemma": "kleines",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "small"
+    },
+    "kommt": {
+      "lemma": "kommt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to come"
+    },
+    "kurz": {
+      "lemma": "kurz",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "short"
+    },
+    "lacht": {
+      "lemma": "lacht",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "lacht"
+    },
+    "lang": {
+      "lemma": "lang",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "long"
+    },
+    "langen": {
+      "lemma": "langen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "long"
+    },
+    "leben": {
+      "lemma": "leben",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "leben"
+    },
+    "lernt": {
+      "lemma": "lernt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to learn"
+    },
+    "lächelt": {
+      "lemma": "lächelt",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "lächelt"
+    },
+    "lüge": {
+      "lemma": "Lüge",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "lie (untruth)"
+    },
+    "lügt": {
+      "lemma": "lügt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "lies"
+    },
+    "macht": {
+      "lemma": "macht",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to make"
+    },
+    "mann": {
+      "lemma": "Mann",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "man",
+      "gender": "m",
+      "article": "der",
+      "plural": "Märkte"
+    },
+    "markt": {
+      "lemma": "Markt",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "market",
+      "gender": "m",
+      "article": "der",
+      "plural": "Märkte"
+    },
+    "mehr": {
+      "lemma": "mehr",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "more"
+    },
+    "mein": {
+      "lemma": "mein",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "my"
+    },
+    "morgen": {
+      "lemma": "Morgen",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "tomorrow",
+      "gender": "m",
+      "article": "der",
+      "plural": "Morgene"
+    },
+    "nase": {
+      "lemma": "Nase",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "nose",
+      "gender": "f",
+      "article": "die",
+      "plural": "Nasen"
+    },
+    "nett": {
+      "lemma": "nett",
+      "kind": "word",
+      "pos": "adjective",
+      "meaning": "nice"
+    },
+    "nicht": {
+      "lemma": "nicht",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "not"
+    },
+    "nickt": {
+      "lemma": "nickt",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "nickt"
+    },
+    "noch": {
+      "lemma": "noch",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "still/yet"
+    },
+    "nächsten": {
+      "lemma": "nächsten",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "nächsten"
+    },
+    "passiert": {
+      "lemma": "passiert",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "passiert"
+    },
+    "pinocchio": {
+      "lemma": "Pinocchio",
+      "kind": "name",
+      "pos": "noun",
+      "meaning": "pinocchio",
+      "gender": "m",
+      "article": "der"
+    },
+    "plötzlich": {
+      "lemma": "Plötzlich",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "suddenly"
+    },
+    "puppe": {
+      "lemma": "Puppe",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "doll",
+      "gender": "f",
+      "article": "die",
+      "plural": "Puppen"
+    },
+    "sagt": {
+      "lemma": "sagt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to say"
+    },
+    "schaut": {
+      "lemma": "schaut",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "schaut"
+    },
+    "schreiner": {
+      "lemma": "Schreiner",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "carpenter",
+      "gender": "m",
+      "article": "der",
+      "plural": "Schreiner"
+    },
+    "schule": {
+      "lemma": "Schule",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "school",
+      "gender": "f",
+      "article": "die",
+      "plural": "Schulen"
+    },
+    "schöner": {
+      "lemma": "schöner",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "beautiful"
+    },
+    "sehen": {
+      "lemma": "sehen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "sehen"
+    },
+    "sehr": {
+      "lemma": "sehr",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "very"
+    },
+    "sei": {
+      "lemma": "Sei",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "sei",
+      "gender": "m",
+      "article": "der",
+      "plural": "Seie"
+    },
+    "sein": {
+      "lemma": "sein",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "his/its"
+    },
+    "seine": {
+      "lemma": "seine",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "seine"
+    },
+    "sich": {
+      "lemma": "sich",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "sich"
+    },
+    "sie": {
+      "lemma": "Sie",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "she/they"
+    },
+    "sieht": {
+      "lemma": "sieht",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to see"
+    },
+    "singt": {
+      "lemma": "singt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to sing"
+    },
+    "sitzt": {
+      "lemma": "sitzt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to sit"
+    },
+    "sohn": {
+      "lemma": "Sohn",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "son",
+      "gender": "m",
+      "article": "der",
+      "plural": "Söhne"
+    },
+    "spass": {
+      "lemma": "Spaß",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "spass",
+      "gender": "m",
+      "article": "der",
+      "plural": "Spaße"
+    },
+    "spielt": {
+      "lemma": "spielt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to play"
+    },
+    "sprechen": {
+      "lemma": "sprechen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "sprechen"
+    },
+    "tag": {
+      "lemma": "Tag",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "tag",
+      "gender": "m",
+      "article": "der",
+      "plural": "Tage"
+    },
+    "theater": {
+      "lemma": "Theater",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "theater",
+      "gender": "n",
+      "article": "der",
+      "plural": "Theater"
+    },
+    "tisch": {
+      "lemma": "Tisch",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "table",
+      "gender": "m",
+      "article": "der",
+      "plural": "Tische"
+    },
+    "traurig": {
+      "lemma": "traurig",
+      "kind": "word",
+      "pos": "adjective",
+      "meaning": "sad"
+    },
+    "trommel": {
+      "lemma": "Trommel",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "drum",
+      "gender": "f",
+      "article": "der",
+      "plural": "Trommeln"
+    },
+    "trägt": {
+      "lemma": "trägt",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "trägt"
+    },
+    "und": {
+      "lemma": "und",
+      "kind": "word",
+      "pos": "conjunction",
+      "meaning": "and"
+    },
+    "verkauft": {
+      "lemma": "verkauft",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to sell"
+    },
+    "viel": {
+      "lemma": "viel",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "much/many"
+    },
+    "von": {
+      "lemma": "von",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "from"
+    },
+    "wahrheit": {
+      "lemma": "Wahrheit",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "truth",
+      "gender": "f",
+      "article": "die",
+      "plural": "Wahrheiten"
+    },
+    "warst": {
+      "lemma": "Warst",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "were",
+      "gender": "m",
+      "article": "der",
+      "plural": "Warste"
+    },
+    "weg": {
+      "lemma": "Weg",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "weg"
+    },
+    "weit": {
+      "lemma": "weit",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "weit"
+    },
+    "wenn": {
+      "lemma": "wenn",
+      "kind": "word",
+      "pos": "conjunction",
+      "meaning": "when/if"
+    },
+    "werkstatt": {
+      "lemma": "Werkstatt",
+      "kind": "compound",
+      "pos": "noun",
+      "meaning": "workshop",
+      "gender": "f",
+      "article": "der",
+      "plural": "Werkstätten",
+      "parts": [
+        "Werk",
+        "Statt"
+      ]
+    },
+    "wieder": {
+      "lemma": "wieder",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "again"
+    },
+    "will": {
+      "lemma": "will",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "will"
+    },
+    "wird": {
+      "lemma": "wird",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to become"
+    },
+    "wirklich": {
+      "lemma": "wirklich",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "really"
+    },
+    "zufrieden": {
+      "lemma": "zufrieden",
+      "kind": "word",
+      "pos": "adjective",
+      "meaning": "satisfied"
+    },
+    "zuhören": {
+      "lemma": "zuhören",
+      "kind": "separable",
+      "pos": "verb",
+      "meaning": "to listen",
+      "separable": {
+        "prefix": "zu",
+        "stem": "hören"
+      }
+    },
+    "zum": {
+      "lemma": "zum",
+      "kind": "word",
+      "pos": "contraction",
+      "meaning": "to the",
+      "parts": [
+        "zu",
+        "dem"
+      ]
+    },
+    "zur": {
+      "lemma": "zur",
+      "kind": "word",
+      "pos": "contraction",
+      "meaning": "to the (f)",
+      "parts": [
+        "zu",
+        "der"
+      ]
+    }
+  }
+}

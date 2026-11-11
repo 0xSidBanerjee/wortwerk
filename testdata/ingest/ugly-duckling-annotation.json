@@ -1,0 +1,2760 @@
+{
+  "sentences": [
+    {
+      "id": "s0",
+      "translation": "A mother duck lives on the farm.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "auf"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "dem"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "bauernhof"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "wohnt"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "eine"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "entenmutter"
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "translation": "She sits on eggshells.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "sitzt"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "auf"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "eiern"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "translation": "One day, little chicks will come.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "eines"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "tages"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "kommen"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "kleine"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "küken"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "translation": "They are yellow and sweet.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "sind"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "gelb"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "süss"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "translation": "The last egg is big.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "das"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "letzte"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "ei"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "gross"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "translation": "A duckling comes out.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "ein"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "entlein"
+        },
+        {
+          "tokens": [
+            2,
+            3
+          ],
+          "lex": "herauskommen"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "translation": "It's grey and looks different.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "es"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "grau"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            4,
+            6
+          ],
+          "lex": "aussehen"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "anders"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "translation": "The other animals laugh.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "anderen"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "tiere"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "lachen"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "translation": "They say, “You're ugly.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "sagen"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "du"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "bist"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "hässlich"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "translation": "\" The duckling is sad.",
+      "units": [
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "das"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "entlein"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "traurig"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "translation": "The duckling runs away from the farm.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "das"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "entlein"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "läuft"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "weg"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "vom"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "hof"
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "translation": "It goes through meadows and fields.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "es"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "geht"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "durch"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "wiesen"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "felder"
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "translation": "It is looking for friends, but no one wants to play with it.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "es"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "sucht"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "freunde"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "aber"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "niemand"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "will"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "mit"
+        },
+        {
+          "tokens": [
+            8
+          ],
+          "lex": "ihm"
+        },
+        {
+          "tokens": [
+            9
+          ],
+          "lex": "spielen"
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "translation": "Im Winter ist es kalt.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "im"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "winter"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "es"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "sehr"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "kalt"
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "translation": "The duckling freezes.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "das"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "entlein"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "friert"
+        }
+      ]
+    },
+    {
+      "id": "s15",
+      "translation": "He finds a small house and sleeps there.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "es"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "findet"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "ein"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "kleines"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "haus"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "schläft"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "dort"
+        }
+      ]
+    },
+    {
+      "id": "s16",
+      "translation": "In spring, the sun comes back.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "im"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "frühling"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "kommt"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "sonne"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "wieder"
+        }
+      ]
+    },
+    {
+      "id": "s17",
+      "translation": "The duckling goes to the lake.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "das"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "entlein"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "geht"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "zum"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "see"
+        }
+      ]
+    },
+    {
+      "id": "s18",
+      "translation": "It sees his image in the water.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "es"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "sieht"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "sein"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "bild"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "im"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "wasser"
+        }
+      ]
+    },
+    {
+      "id": "s19",
+      "translation": "It is no more.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "es"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "nicht"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "mehr"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "grau"
+        }
+      ]
+    },
+    {
+      "id": "s20",
+      "translation": "It's a beautiful white swan.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "es"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "ein"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "schöner"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "weisser"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "schwan"
+        }
+      ]
+    },
+    {
+      "id": "s21",
+      "translation": "Three swans swim close by.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "drei"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "schwäne"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "schwimmen"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "nah"
+        }
+      ]
+    },
+    {
+      "id": "s22",
+      "translation": "They are friendly.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "sind"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "freundlich"
+        }
+      ]
+    },
+    {
+      "id": "s23",
+      "translation": "The duckling finally feels at home.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "das"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "entlein"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "fühlt"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "sich"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "endlich"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "zu"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "hause"
+        }
+      ]
+    },
+    {
+      "id": "s24",
+      "translation": "The swans nod hello.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "schwäne"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "nicken"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "hallo"
+        }
+      ]
+    },
+    {
+      "id": "s25",
+      "translation": "They say, “Welcome.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "sagen"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "willkommen"
+        }
+      ]
+    },
+    {
+      "id": "s26",
+      "translation": "\" The duckling swims with them.",
+      "units": [
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "das"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "entlein"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "schwimmt"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "mit"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "ihnen"
+        }
+      ]
+    },
+    {
+      "id": "s27",
+      "translation": "It's happy.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "es"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "glücklich"
+        }
+      ]
+    },
+    {
+      "id": "s28",
+      "translation": "The farmer's children look at the lake.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "bauernkinder"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "schauen"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "zum"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "see"
+        }
+      ]
+    },
+    {
+      "id": "s29",
+      "translation": "They say, “What a beautiful swan!",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "sagen"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "welch"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "ein"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "schöner"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "schwan"
+        }
+      ]
+    },
+    {
+      "id": "s30",
+      "translation": "\" The duckling smiles.",
+      "units": [
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "das"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "entlein"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "lächelt"
+        }
+      ]
+    },
+    {
+      "id": "s31",
+      "translation": "On the farm, the ducks hear about the new swan.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "auf"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "dem"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "bauernhof"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "hören"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "enten"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "von"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "dem"
+        },
+        {
+          "tokens": [
+            8
+          ],
+          "lex": "neuen"
+        },
+        {
+          "tokens": [
+            9
+          ],
+          "lex": "schwan"
+        }
+      ]
+    },
+    {
+      "id": "s32",
+      "translation": "The old duck mother is surprised.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "alte"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "entenmutter"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "überrascht"
+        }
+      ]
+    },
+    {
+      "id": "s33",
+      "translation": "She goes to the lake and apologizes.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "geht"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "zum"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "see"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "und"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "entschuldigt"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "sich"
+        }
+      ]
+    },
+    {
+      "id": "s34",
+      "translation": "The duckling says, “I forgive you.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "das"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "entlein"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "sagt"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "ich"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "vergebe"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "dir"
+        }
+      ]
+    },
+    {
+      "id": "s35",
+      "translation": "“ They remain friends.",
+      "units": [
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "bleiben"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "freunde"
+        }
+      ]
+    },
+    {
+      "id": "s36",
+      "translation": "The duckling sometimes visits the farm, but it lives by the lake.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "das"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "entlein"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "besucht"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "den"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "hof"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "manchmal"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "aber"
+        },
+        {
+          "tokens": [
+            8
+          ],
+          "lex": "es"
+        },
+        {
+          "tokens": [
+            9
+          ],
+          "lex": "wohnt"
+        },
+        {
+          "tokens": [
+            10
+          ],
+          "lex": "am"
+        },
+        {
+          "tokens": [
+            11
+          ],
+          "lex": "see"
+        }
+      ]
+    },
+    {
+      "id": "s37",
+      "translation": "It now knows: being different is okay.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "es"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "weiss"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "jetzt"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "anders"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "sein"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "ist"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "okay"
+        }
+      ]
+    },
+    {
+      "id": "s38",
+      "translation": "Sometimes you just need time.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "manchmal"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "braucht"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "man"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "nur"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "zeit"
+        }
+      ]
+    },
+    {
+      "id": "s39",
+      "translation": "The weather is terrible today. I don’t like the sun. It’s too warm.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "sonne"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "scheint"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "warm"
+        }
+      ]
+    },
+    {
+      "id": "s40",
+      "translation": "The duckling feels peace.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "das"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "entlein"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "fühlt"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "frieden"
+        }
+      ]
+    },
+    {
+      "id": "s41",
+      "translation": "It sings softly with the other swans.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "es"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "singt"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "leise"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "mit"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "den"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "anderen"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "schwänen"
+        }
+      ]
+    },
+    {
+      "id": "s42",
+      "translation": "It sleeps well in the evening.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "abends"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "schläft"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "es"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "gut"
+        }
+      ]
+    },
+    {
+      "id": "s43",
+      "translation": "The next day, the children play on the shore.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "am"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "nächsten"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "tag"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "spielen"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "kinder"
+        },
+        {
+          "tokens": [
+            6
+          ],
+          "lex": "am"
+        },
+        {
+          "tokens": [
+            7
+          ],
+          "lex": "ufer"
+        }
+      ]
+    },
+    {
+      "id": "s44",
+      "translation": "They throw bread into the water.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "sie"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "werfen"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "brot"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "in"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "das"
+        },
+        {
+          "tokens": [
+            5
+          ],
+          "lex": "wasser"
+        }
+      ]
+    },
+    {
+      "id": "s45",
+      "translation": "The birds eat peacefully together.",
+      "units": [
+        {
+          "tokens": [
+            0
+          ],
+          "lex": "die"
+        },
+        {
+          "tokens": [
+            1
+          ],
+          "lex": "vögel"
+        },
+        {
+          "tokens": [
+            2
+          ],
+          "lex": "essen"
+        },
+        {
+          "tokens": [
+            3
+          ],
+          "lex": "friedlich"
+        },
+        {
+          "tokens": [
+            4
+          ],
+          "lex": "zusammen"
+        }
+      ]
+    }
+  ],
+  "lexicon": {
+    "auf": {
+      "lemma": "Auf",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "on",
+      "gender": "m",
+      "article": "der",
+      "plural": "Aufe"
+    },
+    "dem": {
+      "lemma": "dem",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "the (dat)"
+    },
+    "bauernhof": {
+      "lemma": "Bauernhof",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "farm",
+      "gender": "m",
+      "plural": "Bauernhöfe",
+      "article": "der"
+    },
+    "wohnt": {
+      "lemma": "wohnt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to live"
+    },
+    "eine": {
+      "lemma": "eine",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "a, an"
+    },
+    "entenmutter": {
+      "lemma": "Entenmutter",
+      "kind": "compound",
+      "pos": "noun",
+      "meaning": "duck mother",
+      "gender": "f",
+      "article": "der",
+      "plural": "Entenmütter",
+      "parts": [
+        "Enten",
+        "Mutter"
+      ]
+    },
+    "sie": {
+      "lemma": "Sie",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "she/they"
+    },
+    "sitzt": {
+      "lemma": "sitzt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to sit"
+    },
+    "eiern": {
+      "lemma": "Eiern",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "eiern",
+      "gender": "m",
+      "article": "der",
+      "plural": "Eierne"
+    },
+    "eines": {
+      "lemma": "eines",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "a, an"
+    },
+    "tages": {
+      "lemma": "Tages",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "tages",
+      "gender": "m",
+      "article": "der",
+      "plural": "Tagese"
+    },
+    "kommen": {
+      "lemma": "kommen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "kommen"
+    },
+    "kleine": {
+      "lemma": "kleine",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "small"
+    },
+    "küken": {
+      "lemma": "Küken",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "küken",
+      "gender": "m",
+      "article": "der",
+      "plural": "Kükene"
+    },
+    "sind": {
+      "lemma": "sind",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "are"
+    },
+    "gelb": {
+      "lemma": "gelb",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "gelb"
+    },
+    "und": {
+      "lemma": "und",
+      "kind": "word",
+      "pos": "conjunction",
+      "meaning": "and"
+    },
+    "süss": {
+      "lemma": "süß",
+      "kind": "word",
+      "pos": "adjective",
+      "meaning": "sweet/cute"
+    },
+    "das": {
+      "lemma": "das",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "the (n)"
+    },
+    "letzte": {
+      "lemma": "letzte",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "letzte"
+    },
+    "ei": {
+      "lemma": "Ei",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "ei",
+      "gender": "m",
+      "article": "der",
+      "plural": "Eie"
+    },
+    "ist": {
+      "lemma": "ist",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "is"
+    },
+    "gross": {
+      "lemma": "groß",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "big"
+    },
+    "herauskommen": {
+      "lemma": "herauskommen",
+      "kind": "separable",
+      "pos": "verb",
+      "meaning": "to come out",
+      "separable": {
+        "prefix": "heraus",
+        "stem": "kommen"
+      }
+    },
+    "ein": {
+      "lemma": "ein",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "a, an"
+    },
+    "entlein": {
+      "lemma": "Entlein",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "duckling",
+      "gender": "n",
+      "plural": "Entlein",
+      "article": "die"
+    },
+    "aussehen": {
+      "lemma": "aussehen",
+      "kind": "separable",
+      "pos": "verb",
+      "meaning": "to look/seem",
+      "separable": {
+        "prefix": "aus",
+        "stem": "sehen"
+      }
+    },
+    "es": {
+      "lemma": "Es",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "it"
+    },
+    "grau": {
+      "lemma": "grau",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "grau"
+    },
+    "anders": {
+      "lemma": "anders",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "anders"
+    },
+    "die": {
+      "lemma": "die",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "the (f/pl)"
+    },
+    "anderen": {
+      "lemma": "anderen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "anderen"
+    },
+    "tiere": {
+      "lemma": "Tiere",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "tiere",
+      "gender": "f",
+      "article": "die",
+      "plural": "Tiereen"
+    },
+    "lachen": {
+      "lemma": "lachen",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to laugh"
+    },
+    "sagen": {
+      "lemma": "sagen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "sagen"
+    },
+    "du": {
+      "lemma": "Du",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "you"
+    },
+    "bist": {
+      "lemma": "bist",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "are"
+    },
+    "hässlich": {
+      "lemma": "hässlich",
+      "kind": "word",
+      "pos": "adjective",
+      "meaning": "ugly"
+    },
+    "traurig": {
+      "lemma": "traurig",
+      "kind": "word",
+      "pos": "adjective",
+      "meaning": "sad"
+    },
+    "läuft": {
+      "lemma": "läuft",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to run"
+    },
+    "weg": {
+      "lemma": "weg",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "weg"
+    },
+    "vom": {
+      "lemma": "vom",
+      "kind": "word",
+      "pos": "contraction",
+      "meaning": "from the",
+      "parts": [
+        "von",
+        "dem"
+      ]
+    },
+    "hof": {
+      "lemma": "Hof",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "hof",
+      "gender": "m",
+      "article": "der",
+      "plural": "Hofe"
+    },
+    "geht": {
+      "lemma": "gehen",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to go"
+    },
+    "durch": {
+      "lemma": "durch",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "through"
+    },
+    "wiesen": {
+      "lemma": "Wiesen",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "wiesen",
+      "gender": "m",
+      "article": "der",
+      "plural": "Wiesene"
+    },
+    "felder": {
+      "lemma": "Felder",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "felder",
+      "gender": "m",
+      "article": "der",
+      "plural": "Feldere"
+    },
+    "sucht": {
+      "lemma": "sucht",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "sucht"
+    },
+    "freunde": {
+      "lemma": "Freunde",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "freunde",
+      "gender": "f",
+      "article": "die",
+      "plural": "Freundeen"
+    },
+    "aber": {
+      "lemma": "aber",
+      "kind": "word",
+      "pos": "conjunction",
+      "meaning": "but"
+    },
+    "niemand": {
+      "lemma": "niemand",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "niemand"
+    },
+    "will": {
+      "lemma": "will",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "will"
+    },
+    "mit": {
+      "lemma": "mit",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "with"
+    },
+    "ihm": {
+      "lemma": "ihm",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "ihm"
+    },
+    "spielen": {
+      "lemma": "spielen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "spielen"
+    },
+    "im": {
+      "lemma": "im",
+      "kind": "word",
+      "pos": "contraction",
+      "meaning": "in the",
+      "parts": [
+        "in",
+        "dem"
+      ]
+    },
+    "winter": {
+      "lemma": "Winter",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "m",
+      "gender": "Frühling",
+      "plural": "spring",
+      "article": "der"
+    },
+    "sehr": {
+      "lemma": "sehr",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "very"
+    },
+    "kalt": {
+      "lemma": "kalt",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "cold"
+    },
+    "friert": {
+      "lemma": "friert",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "friert"
+    },
+    "findet": {
+      "lemma": "findet",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to find"
+    },
+    "kleines": {
+      "lemma": "kleines",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "small"
+    },
+    "haus": {
+      "lemma": "Haus",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "house",
+      "gender": "n",
+      "plural": "Häuser",
+      "article": "der"
+    },
+    "schläft": {
+      "lemma": "schläft",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to sleep"
+    },
+    "dort": {
+      "lemma": "dort",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "there"
+    },
+    "frühling": {
+      "lemma": "Frühling",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "frühling",
+      "gender": "m",
+      "article": "der",
+      "plural": "Frühlinge"
+    },
+    "kommt": {
+      "lemma": "kommt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to come"
+    },
+    "sonne": {
+      "lemma": "Sonne",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "sonne",
+      "gender": "f",
+      "article": "die",
+      "plural": "Sonneen"
+    },
+    "wieder": {
+      "lemma": "wieder",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "again"
+    },
+    "zum": {
+      "lemma": "zum",
+      "kind": "word",
+      "pos": "contraction",
+      "meaning": "to the",
+      "parts": [
+        "zu",
+        "dem"
+      ]
+    },
+    "see": {
+      "lemma": "See",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "see",
+      "gender": "f",
+      "article": "die",
+      "plural": "Seeen"
+    },
+    "sieht": {
+      "lemma": "sieht",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to see"
+    },
+    "sein": {
+      "lemma": "sein",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "his/its"
+    },
+    "bild": {
+      "lemma": "Bild",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "bild",
+      "gender": "m",
+      "article": "der",
+      "plural": "Bilde"
+    },
+    "wasser": {
+      "lemma": "Wasser",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "wasser",
+      "gender": "m",
+      "article": "der",
+      "plural": "Wassere"
+    },
+    "nicht": {
+      "lemma": "nicht",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "not"
+    },
+    "mehr": {
+      "lemma": "mehr",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "more"
+    },
+    "schöner": {
+      "lemma": "schöner",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "beautiful"
+    },
+    "weisser": {
+      "lemma": "weißer",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "weisser"
+    },
+    "schwan": {
+      "lemma": "Schwan",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "swan",
+      "gender": "m",
+      "plural": "Schwäne",
+      "article": "der"
+    },
+    "drei": {
+      "lemma": "Drei",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "drei",
+      "gender": "m",
+      "article": "der",
+      "plural": "Dreie"
+    },
+    "schwäne": {
+      "lemma": "Schwäne",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "schwäne",
+      "gender": "f",
+      "article": "die",
+      "plural": "Schwäneen"
+    },
+    "schwimmen": {
+      "lemma": "schwimmen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "schwimmen"
+    },
+    "nah": {
+      "lemma": "nah",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "nah"
+    },
+    "freundlich": {
+      "lemma": "freundlich",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "freundlich"
+    },
+    "fühlt": {
+      "lemma": "fühlt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to feel"
+    },
+    "sich": {
+      "lemma": "sich",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "sich"
+    },
+    "endlich": {
+      "lemma": "endlich",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "finally"
+    },
+    "zu": {
+      "lemma": "zu",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "to"
+    },
+    "hause": {
+      "lemma": "Hause",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "hause",
+      "gender": "f",
+      "article": "die",
+      "plural": "Hauseen"
+    },
+    "nicken": {
+      "lemma": "nicken",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "nicken"
+    },
+    "hallo": {
+      "lemma": "hallo",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "hallo"
+    },
+    "willkommen": {
+      "lemma": "Willkommen",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "willkommen",
+      "gender": "m",
+      "article": "der",
+      "plural": "Willkommene"
+    },
+    "schwimmt": {
+      "lemma": "schwimmt",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "schwimmt"
+    },
+    "ihnen": {
+      "lemma": "ihnen",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "ihnen"
+    },
+    "glücklich": {
+      "lemma": "glücklich",
+      "kind": "word",
+      "pos": "adjective",
+      "meaning": "happy"
+    },
+    "bauernkinder": {
+      "lemma": "Bauernkinder",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "bauernkinder",
+      "gender": "m",
+      "article": "der",
+      "plural": "Bauernkindere"
+    },
+    "schauen": {
+      "lemma": "schauen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "schauen"
+    },
+    "welch": {
+      "lemma": "Welch",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "welch",
+      "gender": "m",
+      "article": "der",
+      "plural": "Welche"
+    },
+    "lächelt": {
+      "lemma": "lächelt",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "lächelt"
+    },
+    "hören": {
+      "lemma": "hören",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "hören"
+    },
+    "enten": {
+      "lemma": "Enten",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "enten",
+      "gender": "m",
+      "article": "der",
+      "plural": "Entene"
+    },
+    "von": {
+      "lemma": "von",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "from"
+    },
+    "neuen": {
+      "lemma": "neuen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "neuen"
+    },
+    "alte": {
+      "lemma": "alte",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "old"
+    },
+    "überrascht": {
+      "lemma": "überrascht",
+      "kind": "word",
+      "pos": "adjective",
+      "meaning": "surprised"
+    },
+    "entschuldigt": {
+      "lemma": "entschuldigt",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "entschuldigt"
+    },
+    "sagt": {
+      "lemma": "sagt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to say"
+    },
+    "ich": {
+      "lemma": "Ich",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "I"
+    },
+    "vergebe": {
+      "lemma": "vergebe",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "vergebe"
+    },
+    "dir": {
+      "lemma": "dir",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "dir"
+    },
+    "bleiben": {
+      "lemma": "bleiben",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "bleiben"
+    },
+    "besucht": {
+      "lemma": "besucht",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "besucht"
+    },
+    "den": {
+      "lemma": "den",
+      "kind": "word",
+      "pos": "article",
+      "meaning": "the (acc m)"
+    },
+    "manchmal": {
+      "lemma": "manchmal",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "sometimes"
+    },
+    "am": {
+      "lemma": "am",
+      "kind": "word",
+      "pos": "contraction",
+      "meaning": "on the",
+      "parts": [
+        "an",
+        "dem"
+      ]
+    },
+    "weiss": {
+      "lemma": "weiß",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to know"
+    },
+    "jetzt": {
+      "lemma": "jetzt",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "now"
+    },
+    "okay": {
+      "lemma": "okay",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "okay"
+    },
+    "braucht": {
+      "lemma": "braucht",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "braucht"
+    },
+    "man": {
+      "lemma": "man",
+      "kind": "word",
+      "pos": "pronoun",
+      "meaning": "one/you"
+    },
+    "nur": {
+      "lemma": "nur",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "only"
+    },
+    "zeit": {
+      "lemma": "Zeit",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "zeit",
+      "gender": "m",
+      "article": "der",
+      "plural": "Zeite"
+    },
+    "scheint": {
+      "lemma": "scheint",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "scheint"
+    },
+    "warm": {
+      "lemma": "warm",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "warm"
+    },
+    "frieden": {
+      "lemma": "Frieden",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "frieden",
+      "gender": "m",
+      "article": "der",
+      "plural": "Friedene"
+    },
+    "singt": {
+      "lemma": "singt",
+      "kind": "word",
+      "pos": "verb",
+      "meaning": "to sing"
+    },
+    "leise": {
+      "lemma": "leise",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "leise"
+    },
+    "schwänen": {
+      "lemma": "Schwänen",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "schwänen",
+      "gender": "m",
+      "article": "der",
+      "plural": "Schwänene"
+    },
+    "abends": {
+      "lemma": "Abends",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "abends"
+    },
+    "gut": {
+      "lemma": "gut",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "good/well"
+    },
+    "nächsten": {
+      "lemma": "nächsten",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "nächsten"
+    },
+    "tag": {
+      "lemma": "Tag",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "tag",
+      "gender": "m",
+      "article": "der",
+      "plural": "Tage"
+    },
+    "kinder": {
+      "lemma": "Kinder",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "kinder",
+      "gender": "m",
+      "article": "der",
+      "plural": "Kindere"
+    },
+    "ufer": {
+      "lemma": "Ufer",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "ufer",
+      "gender": "m",
+      "article": "der",
+      "plural": "Ufere"
+    },
+    "werfen": {
+      "lemma": "werfen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "werfen"
+    },
+    "brot": {
+      "lemma": "Brot",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "brot",
+      "gender": "m",
+      "article": "der",
+      "plural": "Brote"
+    },
+    "in": {
+      "lemma": "in",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "in"
+    },
+    "vögel": {
+      "lemma": "Vögel",
+      "kind": "word",
+      "pos": "noun",
+      "meaning": "vögel",
+      "gender": "m",
+      "article": "der",
+      "plural": "Vögele"
+    },
+    "essen": {
+      "lemma": "essen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "essen"
+    },
+    "friedlich": {
+      "lemma": "friedlich",
+      "kind": "word",
+      "pos": "adverb",
+      "meaning": "friedlich"
+    },
+    "zusammen": {
+      "lemma": "zusammen",
+      "kind": "word",
+      "pos": "word",
+      "meaning": "zusammen"
+    }
+  }
+}

@@ -26,6 +26,7 @@ Commands:
   validate   Validate compiled JSON files under content/compiled/
   audio      Generate pronunciation audio (not implemented yet)
   dict       Build local dictionary index from Wiktextract JSONL
+  preview    Print token ids for a story markdown (authoring)
 
 Examples:
   wortwerk validate
@@ -56,6 +57,11 @@ func main() {
 			fmt.Fprintln(os.Stderr, "error:", err)
 			os.Exit(1)
 		}
+	case "preview":
+		if err := runPreview(os.Args[2:]); err != nil {
+			fmt.Fprintln(os.Stderr, "error:", err)
+			os.Exit(1)
+		}
 	case "serve", "audio":
 		fmt.Fprintf(os.Stderr, "wortwerk %s: not implemented yet (see project milestones)\n", cmd)
 		os.Exit(1)
@@ -70,6 +76,7 @@ func main() {
 func runIngest(args []string) error {
 	fs := flag.NewFlagSet("ingest", flag.ExitOnError)
 	offline := fs.Bool("offline", false, "use testdata annotation JSON (no LLM)")
+	writeAnn := fs.Bool("write-annotation", false, "write draft annotation JSON to testdata (authoring)")
 	annotation := fs.String("annotation", "", "path to annotation JSON when --offline")
 	gloss := fs.String("gloss-lang", "en", "translation language code")
 	_ = fs.Parse(args)
@@ -80,6 +87,9 @@ func runIngest(args []string) error {
 	root, err := repoRoot()
 	if err != nil {
 		return err
+	}
+	if *writeAnn {
+		return pipeline.WriteDraftAnnotation(root, rest[0])
 	}
 	opts := pipeline.Options{
 		Root:           root,
@@ -97,6 +107,17 @@ func runIngest(args []string) error {
 		opts.LLM = client
 	}
 	return pipeline.Ingest(context.Background(), opts)
+}
+
+func runPreview(args []string) error {
+	if len(args) != 1 {
+		return fmt.Errorf("usage: wortwerk preview <slug>")
+	}
+	root, err := repoRoot()
+	if err != nil {
+		return err
+	}
+	return pipeline.PreviewTokens(root, args[0])
 }
 
 func runDict(args []string) error {
