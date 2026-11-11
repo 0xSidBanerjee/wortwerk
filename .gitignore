@@ -1,0 +1,21 @@
+# Secrets and local tooling data
+.env
+.env.*
+!.env.example
+data/
+
+# Go
+bin/
+*.test
+*.out
+
+# Node / frontend
+web/node_modules/
+web/dist/
+web/coverage/
+
+# OS and editors
+.DS_Store
+*.swp
+.idea/
+.vscode/
