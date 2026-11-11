@@ -63,7 +63,12 @@ function App() {
           <ul className="divide-y divide-zinc-200 dark:divide-zinc-800">
             {index.stories.map((story) => (
               <li key={story.slug} className="py-4 first:pt-0">
-                <span className="font-medium">{story.title}</span>
+                <a
+                  className="font-medium underline-offset-2 hover:underline"
+                  href={`/s/${story.slug}`}
+                >
+                  {story.title}
+                </a>
                 <span className="ml-2 text-xs text-zinc-500">
                   {story.level} · {story.minutes} min
                 </span>

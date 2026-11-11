@@ -10,3 +10,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Repository foundations: schema, Go CLI stub, web shell, and CI.
+- M1 hand-annotated fixture story, compiled JSON, and pure Go validator (`wortwerk validate`).

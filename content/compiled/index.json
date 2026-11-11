@@ -1,3 +1,12 @@
 {
-  "stories": []
+  "stories": [
+    {
+      "slug": "fixture",
+      "title": "Fixture",
+      "level": "A1",
+      "wordCount": 12,
+      "minutes": 1,
+      "rev": "m1-hand"
+    }
+  ]
 }
