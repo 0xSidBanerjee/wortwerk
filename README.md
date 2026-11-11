@@ -27,7 +27,15 @@ make test
 make lint
 ```
 
-Optional ingestion tools need `WORTWERK_LLM_*` variables (see `.env.example`), Piper, and ffmpeg — see [docs/project-plan.md](docs/project-plan.md).
+Ingestion (author machine):
+
+```bash
+wortwerk dict build                    # testdata sample, or path to kaikki JSONL
+wortwerk ingest --offline fixture     # no API key (uses testdata/ingest/)
+wortwerk validate
+```
+
+Live ingest needs `WORTWERK_LLM_*` in `.env`. Piper/ffmpeg for audio (M5) — see [docs/project-plan.md](docs/project-plan.md).
 
 ## Project layout
 

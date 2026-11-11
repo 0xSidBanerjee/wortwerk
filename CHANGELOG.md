@@ -12,3 +12,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Repository foundations: schema, Go CLI stub, web shell, and CI.
 - M1 hand-annotated fixture story, compiled JSON, and pure Go validator (`wortwerk validate`).
 - M2 reader: tap-to-gloss UI, resume, library Continue, Vitest and Playwright smoke.
+- M3 ingestion: parse, split, tokenize, dict SQLite, offline/live ingest, golden test.

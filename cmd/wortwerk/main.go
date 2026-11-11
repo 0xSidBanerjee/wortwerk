@@ -2,11 +2,15 @@
 package main
 
 import (
+	"context"
 	"encoding/json"
+	"flag"
 	"fmt"
 	"os"
 	"path/filepath"
 
+	"github.com/0xSidBanerjee/wortwerk/internal/ingest/llm"
+	"github.com/0xSidBanerjee/wortwerk/internal/ingest/pipeline"
 	"github.com/0xSidBanerjee/wortwerk/internal/ingest/validate"
 	"github.com/0xSidBanerjee/wortwerk/internal/story"
 )
@@ -18,14 +22,16 @@ Usage:
 
 Commands:
   serve      Run the embedded static server (not implemented yet)
-  ingest     Compile stories from markdown (not implemented yet)
+  ingest     Compile stories from markdown
   validate   Validate compiled JSON files under content/compiled/
   audio      Generate pronunciation audio (not implemented yet)
-  dict       Build local dictionary index (not implemented yet)
+  dict       Build local dictionary index from Wiktextract JSONL
 
 Examples:
   wortwerk validate
   wortwerk validate fixture
+  wortwerk dict build
+  wortwerk ingest --offline fixture
 `
 
 func main() {
@@ -40,7 +46,17 @@ func main() {
 			fmt.Fprintln(os.Stderr, "error:", err)
 			os.Exit(1)
 		}
-	case "serve", "ingest", "audio", "dict":
+	case "ingest":
+		if err := runIngest(os.Args[2:]); err != nil {
+			fmt.Fprintln(os.Stderr, "error:", err)
+			os.Exit(1)
+		}
+	case "dict":
+		if err := runDict(os.Args[2:]); err != nil {
+			fmt.Fprintln(os.Stderr, "error:", err)
+			os.Exit(1)
+		}
+	case "serve", "audio":
 		fmt.Fprintf(os.Stderr, "wortwerk %s: not implemented yet (see project milestones)\n", cmd)
 		os.Exit(1)
 	case "-h", "--help", "help":
@@ -49,6 +65,58 @@ func main() {
 		fmt.Fprintf(os.Stderr, "unknown command: %s\n\n%s", cmd, usage)
 		os.Exit(2)
 	}
+}
+
+func runIngest(args []string) error {
+	fs := flag.NewFlagSet("ingest", flag.ExitOnError)
+	offline := fs.Bool("offline", false, "use testdata annotation JSON (no LLM)")
+	annotation := fs.String("annotation", "", "path to annotation JSON when --offline")
+	gloss := fs.String("gloss-lang", "en", "translation language code")
+	_ = fs.Parse(args)
+	rest := fs.Args()
+	if len(rest) != 1 {
+		return fmt.Errorf("usage: wortwerk ingest <slug> [--offline]")
+	}
+	root, err := repoRoot()
+	if err != nil {
+		return err
+	}
+	opts := pipeline.Options{
+		Root:           root,
+		Slug:           rest[0],
+		GlossLang:      *gloss,
+		Offline:        *offline,
+		AnnotationFile: *annotation,
+		DictPath:       filepath.Join(root, "data", "dict.sqlite"),
+	}
+	if !*offline {
+		client, err := llm.NewFromEnv()
+		if err != nil {
+			return err
+		}
+		opts.LLM = client
+	}
+	return pipeline.Ingest(context.Background(), opts)
+}
+
+func runDict(args []string) error {
+	if len(args) < 1 || args[0] != "build" {
+		return fmt.Errorf("usage: wortwerk dict build [path/to/german.jsonl]")
+	}
+	root, err := repoRoot()
+	if err != nil {
+		return err
+	}
+	jsonl := ""
+	if len(args) > 1 {
+		jsonl = args[1]
+	}
+	n, err := pipeline.BuildDict(root, jsonl)
+	if err != nil {
+		return err
+	}
+	fmt.Printf("imported %d forms into data/dict.sqlite\n", n)
+	return nil
 }
 
 func runValidate(args []string) error {
